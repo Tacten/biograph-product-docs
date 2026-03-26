@@ -31,4 +31,4 @@ Billing & Invoice Generation
         ├──► Direct Patient Payment
         │
         └──► Insurance Claim ──► Payor Processing ──► Settlement
-<pre>
+</pre>
