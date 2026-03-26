@@ -2,6 +2,10 @@
 
 A **Healthcare Practitioner** record must be created for every clinical professional who will interact with patients in the system — doctors, nurses, physiotherapists, lab technicians, or any other care providers.
 
+To create a Healthcare Practitioner, go to:
+
+>Home → Healthcare → Masters → Healthcare Practitioner
+
 ## Creating a Practitioner
 
 1. Go to **Healthcare Practitioner** list
