@@ -10,3 +10,5 @@ Track external physicians who refer patients to your facility:
    - **Reports** for referral analytics
 
 > **Business benefit:** Tracking referral sources helps you understand which physicians or facilities are sending patients to you, enabling better relationship management and marketing decisions.
+
+![Referring Practitioner Selection](../assets/referring-practitioner-selection.png)
