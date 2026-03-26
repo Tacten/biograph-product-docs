@@ -17,7 +17,7 @@ The most common way to create an encounter:
 
 To create a Patient Encounter, go to:
 
-**Home → Healthcare → Consultation → Patient Encounter**
+>Home → Healthcare → Consultation → Patient Encounter
 
 For walk-in patients or situations where an appointment wasn't booked:
 
