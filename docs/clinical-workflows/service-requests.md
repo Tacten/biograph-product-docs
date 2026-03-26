@@ -15,6 +15,9 @@ Each service request tracks:
 | **Status** | Draft, Active, Completed, Cancelled |
 | **Priority** | Routine, Urgent, STAT |
 
+![Service Request](../assets/service-request-form.png)
+
+
 ## Medication Requests
 
 **Medication Requests** track the fulfillment of medication prescriptions:
@@ -28,3 +31,5 @@ Each service request tracks:
 | **Prescription Reference** | Link back to the originating encounter |
 
 > Medication requests bridge the gap between what the doctor prescribes and what the pharmacy dispenses, ensuring complete tracking of the medication workflow.
+
+![Medication Request](../assets/medication-request-form.png) 
