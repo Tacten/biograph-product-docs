@@ -13,3 +13,5 @@
 2. Click **Reschedule** (or create a new appointment and cancel the old one)
 3. Select the new date and time from available slots
 4. The system updates the appointment and notifies the patient (if notifications are enabled)
+
+![Cancel / Reschedule Appointment](../assets/cancel-reschedule-appointment.png) 
