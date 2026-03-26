@@ -14,6 +14,8 @@ Tracking consumables used during procedures is essential for:
 3. **Stock integration** — When ERPNext Stock module is configured, consumables are automatically deducted from the service unit's warehouse
 4. **Billing integration** — Consumable costs can be added to the patient's invoice
 
+![Clinical Procedure Consumables](../assets/Clinical-procedure-consumables.png)
+
 ## Procedure Billing
 
 Procedures are billed through the ERPNext invoicing system:
