@@ -7,3 +7,5 @@ Biograph supports teleconsultation workflows:
 - Patients receive the consultation link via notification
 - The clinical documentation workflow (encounter, prescriptions) remains the same as in-person visits
 - Billing for teleconsultations follows the same rules as regular appointments
+
+![Teleconsultation Appointment](../assets/teleconsultation-appointment.png) 
