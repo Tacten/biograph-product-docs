@@ -2,6 +2,10 @@
 
 Biograph includes a built-in **duplicate detection system** to prevent creating multiple records for the same patient.
 
+Navigate to:
+
+>Home>Healthcare > Setup > Healthcare Settings>Patient Duplicate Check
+
 ## How It Works
 
 1. When a new patient is being created, the system checks for potential duplicates
