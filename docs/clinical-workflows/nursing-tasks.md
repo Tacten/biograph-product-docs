@@ -23,6 +23,9 @@ Nursing tasks can be generated from:
 | **Status** | Draft, Open, Completed, Cancelled |
 | **Notes** | Additional instructions or observations |
 
+![Nursing Task Details](../assets/nursing-task-form.png)
+
+
 ## Managing Tasks
 
 Nurses can:
