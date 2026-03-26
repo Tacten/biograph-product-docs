@@ -2,7 +2,7 @@
 
 To create a Patient Appointment, go to:
 
-**Home → Healthcare → Patient Appointment**
+>Home → Healthcare → Patient Appointment**
 
 ## From the Appointment List
 
