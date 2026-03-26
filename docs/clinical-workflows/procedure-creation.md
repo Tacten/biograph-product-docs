@@ -6,7 +6,12 @@ A **Clinical Procedure** represents any medical procedure performed on a patient
 
 Clinical procedures can be created from:
 - **Patient Encounter** — When a practitioner orders a procedure during consultation
+
+>Home>Healthcare>Consultation>Patient Encounter>Patient>Create
+  
 - **Procedure List** — Directly from the Clinical Procedure list for standalone procedures
+
+  >Home>Healthcare>Consultation>Clinical Procedure
 
 | Field | Description |
 |-------|-------------|
@@ -17,3 +22,5 @@ Clinical procedures can be created from:
 | **Start Date/Time** | Scheduled time |
 | **Prescription** | Link to the originating encounter prescription (if any) |
 | **Notes** | Pre-procedure instructions or observations |
+
+![Clinical Procedure](../assets/Clinical-procedure.png)
