@@ -22,6 +22,8 @@ To create a Healthcare Practitioner, go to:
 | **Mobile Phone** | Contact number |
 | **Image** | Profile photo |
 
+![Healthcare Practitioner Form](../assets/healthcare-practitioner-form.png)
+
 ## Practitioner Profile
 
 Each practitioner record also includes:
