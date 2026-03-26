@@ -8,3 +8,5 @@ The **Appointment Calendar** provides a visual overview of all scheduled appoint
 - **Drag to reschedule** — Move appointments by dragging (if permissions allow)
 - **Filter by practitioner** — View appointments for a specific doctor
 - **Filter by department** — View all appointments in a department
+
+![Appointment Calendar View](../assets/available-slots-popup.png) 
