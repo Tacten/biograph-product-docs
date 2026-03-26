@@ -23,6 +23,8 @@ To create a Patient Appointment, go to:
 | **Referring Practitioner** | If the patient was referred by another doctor |
 | **Notes** | Any additional notes for the appointment |
 
+![Patient Appointment Form](../assets/patient-appointment-form.png)
+
 ## Available Time Slots
 
 When you select a practitioner and date, the system shows **available time slots** based on:
