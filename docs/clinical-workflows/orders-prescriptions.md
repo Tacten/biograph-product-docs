@@ -49,3 +49,5 @@ Order rehabilitation or therapy services:
 | **Therapy Type** | Select from configured therapy types |
 | **Number of Sessions** | How many sessions to schedule |
 | **Notes** | Instructions for the therapist |
+
+![Orders and Prescriptions](../assets/encounter-clinical-documentation.png)
