@@ -24,4 +24,6 @@ Patient Appointments follow a defined status workflow:
 | **Closed** | Consultation completed (usually after encounter is submitted) |
 | **Cancelled** | Appointment was cancelled |
 
+![Appointment Status Workflow](../assets/appointment-status-workflow.png)  
+
 > The system automatically updates expired open appointments to **Cancelled** status via a daily scheduled task.
