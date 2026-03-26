@@ -2,6 +2,9 @@
 
 Consultation charges are configured directly on the Healthcare Practitioner record:
 
+![Practitioner Consultation Charges](../assets/practitioner-consultation-charges.png)
+
+
 | Charge Type | Description |
 |-------------|-------------|
 | **OP Consulting Charge** | Fee for outpatient consultations |
