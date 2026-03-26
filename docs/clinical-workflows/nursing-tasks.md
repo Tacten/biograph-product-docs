@@ -35,6 +35,8 @@ Nurses can:
 4. Add completion notes and observations
 5. Flag tasks that need physician attention
 
+![Nursing Task List](../assets/nursing-task-list.png)
+
 ## Task Validation
 
 Nursing tasks include validation controls to ensure care quality:
