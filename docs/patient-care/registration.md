@@ -17,6 +17,8 @@ For fast registration at the front desk, use the **Quick Entry** option:
 - The system creates the record immediately
 - Additional details can be filled in later
 
+  ![Patient Quick Entry](../assets/Patient-quick-entry.png)
+
 ## Demographics
 
 The Patient record captures comprehensive demographic information:
@@ -28,6 +30,8 @@ The Patient record captures comprehensive demographic information:
 | **Personal Details** | Blood Group, Marital Status, Occupation |
 | **Contact Information** | Email, Phone, Mobile |
 | **Address** | Full address with city, state, postal code, country |
+
+![Patient Form](../assets/Patient-form.png)
 
 ## Contact & Address
 
