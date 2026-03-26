@@ -33,9 +33,16 @@ Capture hereditary and genetic risk information:
 - **Relation** (Father, Mother, Sibling, etc.)
 - **Age of onset** (if known)
 
+  ![Medical History](../assets/Medical-history.png)
+
+  ![Medical History 1](../assets/Medical-history1.png)
+
 ## Risk Factors
 
 Document patient-specific risk factors that influence care decisions:
 - **Lifestyle risks** — Smoking, sedentary lifestyle, obesity
 - **Occupational hazards** — Exposure to chemicals, physical strain
 - **Genetic predispositions** — Based on family history
+
+  ![Medical History 2](../assets/Medical-history2.png)
+  
