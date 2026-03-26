@@ -2,6 +2,10 @@
 
 ## Service Requests
 
+To access Service Requests:
+
+>Home → Healthcare → Orders → Service Request
+
 **Service Requests** are formal orders for healthcare services. They can be generated from:
 - Patient Encounters (when a practitioner orders a test, procedure, or therapy)
 - Inpatient Records (for inpatient care activities)
@@ -20,6 +24,10 @@ Each service request tracks:
 
 
 ## Medication Requests
+
+To access Medication Requests:
+
+>Home → Healthcare → Orders → Medication Request
 
 **Medication Requests** track the fulfillment of medication prescriptions:
 
