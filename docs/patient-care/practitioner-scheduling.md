@@ -18,6 +18,8 @@ Practitioner Availability controls **when a practitioner is available for appoin
 | **From Time / To Time** | Available hours |
 | **Availability** | Available or Not Available |
 
+![Practitioner Availability](../assets/practitioner-availability.png)
+
 ### Key Behaviors
 
 - Availability records determine which **time slots** appear during appointment booking
@@ -51,6 +53,11 @@ A **Practitioner Schedule** is a recurring weekly template that defines the prac
 | Wednesday | 09:00 | 13:00 |
 | Thursday | 09:00 | 13:00 |
 | Friday | 09:00 | 12:00 |
+
+![Practitioner Schedule](../assets/practitioner-schedule.png)
+
+![Practitioner Schedule1](../assets/practitioner-schedule1.png)
+
 
 ### Practitioner Service Unit Schedule
 
