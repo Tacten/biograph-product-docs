@@ -4,9 +4,7 @@ The Patient record is the foundation of all clinical workflows in Biograph. Ever
 
 ## Creating a Patient
 
-<div style="background:#f8f9fa; border:1px solid #e9ecef; border-radius:8px; padding:10px 16px; margin-bottom:20px; font-size:14px; color:#666;">
-  Home &gt; Healthcare &gt; Masters &gt; Patient &gt; New Patient
-</div>
+>Home > Healthcare > Masters > Patient > New Patient
 
 1. Navigate to the **Patient** list
 2. Click **+ Add Patient**
