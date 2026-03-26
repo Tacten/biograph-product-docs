@@ -2,6 +2,10 @@
 
 **Nursing Checklist Templates** define standardized sets of tasks for common care scenarios.
 
+To create a Nursing Checklist Template:
+
+>Home → Healthcare → Nursing Checklist Template → New
+
 ## Creating a Template
 
 1. Go to **Nursing Checklist Template** list
