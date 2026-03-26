@@ -16,6 +16,8 @@ Biograph supports standardized medical coding for diagnoses and procedures:
 - Can be used alongside or instead of ICD-10
 - Provides more granular coding options
 
+![Medical Coding Configuration](../assets/medical-coding-configuration.png)
+
 ## Code System Configuration
 
 Medical codes are managed through:
