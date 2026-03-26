@@ -2,6 +2,11 @@
 
 **Nursing Tasks** are actionable items assigned to nursing staff for patient care activities. They ensure that all ordered care activities are tracked, completed, and documented.
 
+To access Nursing Tasks:
+
+>Home → Healthcare → Nursing Task
+
+
 ## What Triggers Nursing Tasks
 
 Nursing tasks can be generated from:
