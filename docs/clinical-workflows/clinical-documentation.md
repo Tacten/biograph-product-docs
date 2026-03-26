@@ -54,3 +54,5 @@ Free-text areas for comprehensive documentation:
 - **Doctor Advice** — Instructions given to the patient
 
 > **Doctor Advice Templates** can be pre-configured for frequently given advice (e.g., "Rest for 3 days", "Avoid spicy food", "Return if symptoms worsen").
+
+![Clinical Notes Section](../assets/encounter-clinical-notes-section.png) 
