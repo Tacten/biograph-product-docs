@@ -43,6 +43,8 @@ Vital signs can be recorded directly within the encounter or via a separate **Vi
 | **BMI** | Auto-calculated from height and weight |
 | **Nutrition Notes** | Dietary observations |
 
+![Vital Signs Section](../assets/encounter-vital-signs-section.png)
+
 ## Clinical Notes
 
 Free-text areas for comprehensive documentation:
