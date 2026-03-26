@@ -26,4 +26,7 @@
 | **Discharge Checklist** | Medication instructions, Follow-up appointment, Wound care instructions, Return belongings |
 | **Shift Handover** | Review patient status, Pending medications, Pending results, Special instructions |
 
+![Nursing Checklist Template1](../assets/nursing-checklist-template1.png)
+
+
 > **Tip:** Using templates ensures no steps are missed and maintains consistent care quality across nursing shifts.
