@@ -15,6 +15,8 @@
 | **Mandatory** | Whether this task must be completed |
 | **Sequence** | Order in which tasks should be performed |
 
+![Nursing Checklist Template](../assets/nursing-checklist-template.png)
+
 ## Common Templates
 
 | Template | Example Tasks |
