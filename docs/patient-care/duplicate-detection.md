@@ -22,3 +22,5 @@ Navigate to **Patient Duplicate Check Rule Configuration** to set up matching ru
 | **Check Fields** | Which fields to compare (Name, DOB, Phone, Email, etc.) |
 | **Field Links** | Which patient fields to use for comparison |
 | **Match Threshold** | How similar records must be to trigger a warning |
+
+![Patient Duplicate Check](../assets/Patient-duplicate-check.png)
