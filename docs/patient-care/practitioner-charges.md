@@ -4,9 +4,6 @@ Consultation charges are configured directly on the Healthcare Practitioner reco
 
 ![Practitioner Consultation Charges](../assets/practitioner-consultation-charges.png)
 
-<div style="border:1px solid #e6e6e6; padding:12px; border-radius:8px;">
-  <img src="../assets/practitioner-consultation-charges.png" alt="Practitioner Charges">
-</div>
 
 
 | Charge Type | Description |
