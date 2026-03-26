@@ -13,6 +13,8 @@ Clinical procedures follow a structured workflow:
    - Practitioner performing the procedure
    - Any deviations from the template
 
+![Clinical Procedure In Progress](../assets/Clinical-procedure-inprogress.png)
+
 ## Complete Procedure
 
 1. After the procedure is finished, click **Complete**
@@ -22,6 +24,8 @@ Clinical procedures follow a structured workflow:
    - **Post-procedure instructions** for the patient
    - **Consumables used** — Verify or adjust the items consumed
 3. **Submit** the record to finalize it
+
+![Clinical Procedure Completed](../assets/Clinical-procedure-completed.png)
 
 ## Status Flow
 
