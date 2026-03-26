@@ -2,7 +2,7 @@
 
 Biograph supports the complete healthcare delivery workflow:
 
-<pre>
+'''
 Patient Registration
         │
         ▼
@@ -31,4 +31,4 @@ Billing & Invoice Generation
         ├──► Direct Patient Payment
         │
         └──► Insurance Claim ──► Payor Processing ──► Settlement
-</pre>
+'''
