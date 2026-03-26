@@ -2,10 +2,6 @@
 
 Consultation charges are configured directly on the Healthcare Practitioner record:
 
-![Practitioner Consultation Charges](../assets/practitioner-consultation-charges.png)
-
-
-
 | Charge Type | Description |
 |-------------|-------------|
 | **OP Consulting Charge** | Fee for outpatient consultations |
@@ -16,6 +12,9 @@ Charges can vary based on:
 - **Appointment Type** — Different fees for first visit vs. follow-up
 - **Service Unit** — Different fees at different locations
 - **Insurance vs. Self-Pay** — Different rate structures
+
+![Practitioner Consultation Charges](../assets/practitioner-consultation-charges.png)
+
 
 ## Fee Validity
 
