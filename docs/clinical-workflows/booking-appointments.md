@@ -27,6 +27,8 @@ To create a Patient Appointment, go to:
 
 ## Available Time Slots
 
+![Available Slots Popup](../assets/available-slots-popup.png) 
+
 When you select a practitioner and date, the system shows **available time slots** based on:
 1. The practitioner's **schedule template** for that day of the week
 2. Any **availability overrides** for that specific date
