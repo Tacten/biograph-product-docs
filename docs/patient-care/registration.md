@@ -2,9 +2,11 @@
 
 The Patient record is the foundation of all clinical workflows in Biograph. Every appointment, encounter, lab test, and billing transaction is linked to a patient.
 
-## Creating a Patient
+To create a new Patient:
 
 >Home > Healthcare > Masters > Patient > New Patient
+
+## Creating a Patient
 
 1. Navigate to the **Patient** list
 2. Click **+ Add Patient**
