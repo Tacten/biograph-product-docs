@@ -13,6 +13,8 @@ Record what the patient reports:
 
 > **Tip:** Frequently used complaints can be pre-configured in the **Complaint** master for quick selection via dropdown.
 
+![Complaints Section](../assets/encounter-complaints-section.png)
+
 ## Diagnosis
 
 Record the practitioner's clinical assessment:
