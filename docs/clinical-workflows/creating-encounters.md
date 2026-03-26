@@ -1,9 +1,5 @@
 # Creating an Encounter
 
-To create a Patient Encounter, go to:
-
-**Home → Healthcare → Consultation → Patient Encounter**
-
 ## From an Appointment
 
 The most common way to create an encounter:
@@ -18,6 +14,10 @@ The most common way to create an encounter:
 4. Complete the clinical documentation and **Submit**
 
 ## Standalone Encounter
+
+To create a Patient Encounter, go to:
+
+**Home → Healthcare → Consultation → Patient Encounter**
 
 For walk-in patients or situations where an appointment wasn't booked:
 
