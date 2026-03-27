@@ -2,6 +2,10 @@
 
 **Lab Test Templates** define the configuration for each type of laboratory test your facility offers. Templates must be set up before lab tests can be ordered.
 
+Navigation:
+
+>Home>Healthcare>Laboratory Setup>Lab Test Template
+
 ## Creating a Lab Test Template
 
 1. Go to **Lab Test Template** list
