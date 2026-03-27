@@ -32,3 +32,5 @@ Each medication in the order includes:
 | **Route** | Oral, IV, IM, Subcutaneous, etc. |
 | **Interval** | Every 4 hours, Every 8 hours, Once daily, etc. |
 | **Period** | Duration of the order |
+
+![Inpatient Medication Order](../assets/inpatient-medication-order-form.png) 
