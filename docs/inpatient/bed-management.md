@@ -19,8 +19,13 @@
 | **Check Out** | Date and time when the patient vacates (filled on transfer or discharge) |
 | **Left** | Whether the patient has left this bed |
 
+![Bed and Occupancy Management](../assets/inpatient-bed-occupancy.png)
+
+
 ## Occupancy Tracking
 
 - **Occupied beds** are automatically marked as unavailable for new admissions
 - **Bed board view** (via dashboards) shows real-time occupancy status
 - **Billing integration** — Occupied bed time can be automatically converted to billable items via a daily scheduled task
+
+![Bed and Occupancy Management1](../assets/inpatient-bed-occupancy1.png)
