@@ -2,6 +2,10 @@
 
 **Inpatient Medication Entry** records track the actual administration of medications to admitted patients.
 
+To access Inpatient Medication Entry:
+
+>Home → Healthcare → Inpatient → Inpatient Medication Entry
+
 ## Administration Process
 
 1. Nurse opens the pending **Inpatient Medication Entry** for the current time slot
