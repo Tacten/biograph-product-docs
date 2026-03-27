@@ -14,6 +14,11 @@ Every billable healthcare service must be mapped to an **ERPNext Item**. This is
 | **Medications** | Items in ERPNext Item master (stock items) |
 | **Consumables** | Items in ERPNext Item master (stock items) |
 
+
+To configure Service Item Mapping:
+
+>Home → Stock → Item → New
+
 ## Setting Up Service Items
 
 1. Create an **Item** in ERPNext for each healthcare service
@@ -23,3 +28,5 @@ Every billable healthcare service must be mapped to an **ERPNext Item**. This is
 5. Set up **Item Groups** for organization (e.g., "Consultation Fees", "Lab Charges", "Procedure Charges")
 
 > **Price Lists:** Use ERPNext's price list feature to maintain different rates for different scenarios (e.g., general rate vs. insurance rate vs. discounted rate).
+
+![Service Item](../assets/service-item-form.png)  
