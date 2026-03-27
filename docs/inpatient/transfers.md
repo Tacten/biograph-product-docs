@@ -21,3 +21,6 @@ When a patient needs to be moved between wards, rooms, or beds:
 | **Step-down care** | ICU → General Ward (patient improving) |
 
 ![Inpatient Transfer](../assets/inpatient-transfer-action.png) 
+
+
+![Inpatient Transfer2](../assets/inpatient-transfer-action2.png)
