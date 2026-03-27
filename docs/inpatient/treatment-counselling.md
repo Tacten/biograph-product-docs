@@ -1,9 +1,7 @@
 # Treatment Counselling
 
 >Home → Healthcare → Treatment Counselling → New  
-
  or  
-
  Patient Encounter → Create → Treatment Counselling
 
 **Treatment Counselling** documents are used to explain treatment plans to patients and their families:
