@@ -2,6 +2,10 @@
 
 **Inpatient Medication Orders** are structured medication schedules for admitted patients, different from outpatient prescriptions.
 
+To access the Inpatient Medication Order list, go to:
+
+>Home > Healthcare > Inpatient > Inpatient Medication Order
+
 ## Creating Medication Orders
 
 Medication orders can be:
