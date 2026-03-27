@@ -28,3 +28,9 @@ The **Discharge Summary** is a comprehensive document provided to the patient at
    - Discharge medications
    - Follow-up instructions
 4. Submit and print for the patient
+
+
+![Discharge Summary2](../assets/discharge-summary-form2.png)
+
+
+![Discharge Summary](../assets/discharge-summary-form.png) 
