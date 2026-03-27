@@ -1,8 +1,7 @@
 # Treatment Counselling
 
 >Home → Healthcare → Treatment Counselling → New  
- or  
- Patient Encounter → Create → Treatment Counselling
+  (or Patient Encounter → Create → Treatment Counselling )
 
 **Treatment Counselling** documents are used to explain treatment plans to patients and their families:
 
@@ -16,4 +15,7 @@
 | **Patient Consent** | Record of patient's informed consent |
 
 
+![Treatment Counselling2](../assets/treatment-counselling-form2.png)
+
 ![Treatment Counselling](../assets/treatment-counselling-form.png)
+
