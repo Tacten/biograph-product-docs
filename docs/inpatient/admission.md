@@ -45,3 +45,5 @@ Admissions can be initiated from:
 │Scheduled │      │          │      │Scheduled │      │              │
 └──────────┘      └──────────┘      └──────────┘      └──────────────┘
 ```
+
+![Inpatient Record Form2](../assets/inpatient-record-form2.png)
