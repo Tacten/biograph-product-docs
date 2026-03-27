@@ -2,6 +2,11 @@
 
 **Patient Assessments** are structured evaluations used to measure a patient's functional status and track rehabilitation progress over time.
 
+To create a Patient Assessment:
+
+>Home → Healthcare → Rehabilitation and Physiotherapy → Patient Assessment → New  
+ (or create from Therapy Plan / Therapy Session)
+
 ## Assessment Components
 
 | Component | Description |
@@ -29,3 +34,6 @@
 | **Berg Balance Scale** | Balance and fall risk | Elderly, neurological conditions |
 
 > **Reports:** Use the **Planned vs Actual Therapy Session** report to compare prescribed therapy sessions against actual attendance and completion rates.
+
+
+![Patient Assessment](../assets/patient-assessment-form.png)
