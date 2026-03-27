@@ -15,7 +15,7 @@
 | **Patient Consent** | Record of patient's informed consent |
 
 
-![Treatment Counselling2](../assets/treatment-counselling2.png)
+![Treatment Counselling2](../assets/treatment-counselling-form2.png)
 
 ![Treatment Counselling](../assets/treatment-counselling-form.png)
 
