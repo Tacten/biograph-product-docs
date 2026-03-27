@@ -16,6 +16,10 @@ The **Discharge Summary** is a comprehensive document provided to the patient at
 | **Diet & Activity** | Dietary restrictions and activity recommendations |
 | **Practitioner Details** | Attending doctor information |
 
+
+To create a Discharge Summary:
+>Inpatient Record → Create → Discharge Summary
+
 ## Creating a Discharge Summary
 
 1. From the **Inpatient Record**, click **Create > Discharge Summary**
