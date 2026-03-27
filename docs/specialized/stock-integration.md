@@ -30,9 +30,14 @@ For medications that combine multiple active ingredients (e.g., Amoxicillin + Cl
 2. List all **ingredients** with their individual quantities
 3. The combination appears as a single selectable option during prescribing
 
+   ![Combination Medication](../assets/medication-combination.png)
+   
+
 ### Managing Linked Medications
 
 Use **Medication Linked Items** to connect related medications:
 - Different strengths of the same drug (e.g., Paracetamol 500mg and 650mg)
 - Different dosage forms (e.g., Omeprazole Tablet and Omeprazole Capsule)
 - Generic and brand alternatives
+
+  ![Linked Medications](../assets/medication-linked-items.png)  
