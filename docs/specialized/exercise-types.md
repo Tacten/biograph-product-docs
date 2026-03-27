@@ -21,7 +21,7 @@ To create an Exercise Type:
 | **Steps** | Step-by-step breakdown of the exercise |
 
 ## Difficulty Levels
-
+q
 Pre-configured difficulty levels help therapists choose appropriate exercises:
 
 | Level | Typical Use |
@@ -31,10 +31,11 @@ Pre-configured difficulty levels help therapists choose appropriate exercises:
 | **Hard** | Advanced recovery, near-full function restoration |
 | **Expert** | Sports rehabilitation, maximum performance recovery |
 
-![Exercise Type](../assets/exercise-type-form.png)
-
 
 ![Exercise Type1](../assets/exercise-type-form1.png)
 
 
 ![Exercise Type2](../assets/exercise-type-form2.png)
+
+
+![Exercise Type](../assets/exercise-type-form.png)
