@@ -2,6 +2,11 @@
 
 **Therapy Types** define categories of rehabilitation services your facility offers.
 
+To create a Therapy Type:
+
+>Home → Healthcare → Rehabilitation and Physiotherapy → Therapy Type → New
+
+
 ## Creating a Therapy Type
 
 | Field | Description |
@@ -22,3 +27,7 @@
 | **Speech Therapy** | Communication and swallowing disorder treatment |
 | **Cardiac Rehab** | Post-cardiac event rehabilitation |
 | **Neurological Rehab** | Recovery from stroke, head injury, etc. |
+
+
+![Therapy Type](../assets/therapy-type-form.png)
+
