@@ -10,3 +10,6 @@
 | **Plan Description** | Detailed treatment plan explanation |
 | **Risks and Benefits** | Information shared about the treatment |
 | **Patient Consent** | Record of patient's informed consent |
+
+
+![Treatment Counselling](../assets/treatment-counselling-form.png)
