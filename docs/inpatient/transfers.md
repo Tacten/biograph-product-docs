@@ -19,3 +19,5 @@ When a patient needs to be moved between wards, rooms, or beds:
 | **Room upgrade** | General Ward → Private Room (patient request) |
 | **Department transfer** | Surgery Ward → Recovery Ward (post-surgery) |
 | **Step-down care** | ICU → General Ward (patient improving) |
+
+![Inpatient Transfer](../assets/inpatient-transfer-action.png) 
