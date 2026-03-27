@@ -21,3 +21,6 @@ Sales Invoices follow the standard ERPNext workflow:
 - **Cancelled** — Invoice voided (e.g., if appointment is cancelled)
 
 > **Healthcare-specific behavior:** When a Sales Invoice linked to a healthcare service is submitted or cancelled, the system automatically updates the billing status of the related clinical records.
+
+
+![Invoice Workflow](../assets/invoice-workflow-status.png)
