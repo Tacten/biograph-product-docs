@@ -2,6 +2,11 @@
 
 A **Therapy Session** records an individual therapy appointment or session.
 
+To create a Therapy Session:
+
+>Home → Healthcare → Rehabilitation and Physiotherapy → Therapy Session → New  
+ (or create from Therapy Plan → Create → Therapy Session)
+
 ## Creating a Therapy Session
 
 | Field | Description |
@@ -14,6 +19,9 @@ A **Therapy Session** records an individual therapy appointment or session.
 | **Start Date/Time** | Session timing |
 | **Duration** | Actual session length |
 | **Exercises** | Exercises performed during the session |
+
+![Therapy Session](../assets/therapy-session-form.png)
+
 
 ## Session Documentation
 
