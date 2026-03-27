@@ -19,6 +19,11 @@
 
 4. Once dispensed, the pharmacist marks the request as **Completed**
 
+![Medication Requests](../assets/medication-request-list.png)  
+
+
+![Medication Requests1](../assets/medication-request-list1.png)
+
 ## Override Reason Codes
 
 In some cases, medications may need to be substituted or overridden. The system supports **Medication Override Reason Codes** to document why a change was made:
