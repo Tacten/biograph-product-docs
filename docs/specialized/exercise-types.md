@@ -2,6 +2,10 @@
 
 **Exercise Types** are the building blocks of therapy plans. Each exercise type defines a specific therapeutic activity.
 
+To create an Exercise Type:
+
+>Home → Healthcare → Rehabilitation and Physiotherapy → Exercise Type → New
+
 ## Creating an Exercise Type
 
 1. Go to **Exercise Type** list
@@ -26,3 +30,11 @@ Pre-configured difficulty levels help therapists choose appropriate exercises:
 | **Medium** | Mid-recovery, building strength |
 | **Hard** | Advanced recovery, near-full function restoration |
 | **Expert** | Sports rehabilitation, maximum performance recovery |
+
+![Exercise Type](../assets/exercise-type-form.png)
+
+
+![Exercise Type1](../assets/exercise-type-form1.png)
+
+
+![Exercise Type2](../assets/exercise-type-form2.png)
