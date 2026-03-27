@@ -2,10 +2,9 @@
 
 **Patient Assessments** are structured evaluations used to measure a patient's functional status and track rehabilitation progress over time.
 
-To create a Patient Assessment:
+To create a Patient Assessment Template:
 
->Home → Healthcare → Rehabilitation and Physiotherapy → Patient Assessment → New  
- (or create from Therapy Session)
+>Home → Healthcare → Rehabilitation and Physiotherapy → Patient Assessment Template → New  
 
 
 ![Patient Assessment Template](../assets/patient-assessment-template.png)
@@ -20,6 +19,13 @@ To create a Patient Assessment:
 | **Assessment Parameters** | Individual measurement items within the template |
 | **Score / Value** | Measured values for each parameter |
 | **Assessment Sheet** | The completed assessment with all scores |
+
+
+To create a Patient Assessment:
+
+>Home → Healthcare → Rehabilitation and Physiotherapy → Patient Assessment → New  
+ (or create from Therapy Session)
+
 
 ## How Assessments Work
 
