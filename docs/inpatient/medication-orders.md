@@ -4,7 +4,7 @@
 
 To access the Inpatient Medication Order list, go to:
 
->Home > Healthcare > Inpatient > Inpatient Medication Order
+>Home → Healthcare → Inpatient → Inpatient Medication Order
 
 ## Creating Medication Orders
 
