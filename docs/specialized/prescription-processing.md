@@ -27,6 +27,9 @@ Stock updated (ERPNext Stock)
 Patient receives medication
 ```
 
+![Drug Prescription](../assets/drug-prescription-section.png)
+
+
 ## Drug Prescription Details
 
 When a practitioner prescribes medication in an encounter, each prescription entry includes:
