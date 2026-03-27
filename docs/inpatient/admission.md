@@ -8,6 +8,11 @@ Admissions can be initiated from:
 - **Patient Encounter** — When a practitioner decides the patient needs admission during a consultation
 - **Inpatient Record list** — Direct admission for emergencies or pre-planned procedures
 
+  To create an Inpatient Record:
+
+>Home → Healthcare → Inpatient → Inpatient Record → New  
+>(or create directly from a Patient Encounter)
+
 ## Creating an Inpatient Record
 
 1. Go to **Inpatient Record** list (or create from an encounter)
