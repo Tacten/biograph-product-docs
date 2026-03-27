@@ -25,3 +25,6 @@
 5. Submits the entry
 
 > **Important:** Inpatient Medication Entries are exempt from auto-cancellation, ensuring medication records remain intact even if related orders change.
+
+
+![Medication Administration Entry](../assets/inpatient-medication-entry.png)
