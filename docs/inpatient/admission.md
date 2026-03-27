@@ -33,6 +33,10 @@ Admissions can be initiated from:
 4. **Schedule Admission** to confirm the bed assignment
 5. **Admit** the patient to formally begin the inpatient stay
 
+   ![Inpatient Record Form](../assets/inpatient-record-form.png)
+
+   ![Inpatient Record Form]1(../assets/inpatient-record-form1.png)
+
 ## Admission Status Flow
 
 ```
