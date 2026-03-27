@@ -2,6 +2,11 @@
 
 Biograph provides healthcare-specific financial reporting through ERPNext.
 
+To view Financial Reports:
+
+>Home → Accounting → Reports
+
+
 ## Available Reports
 
 | Report | Description |
