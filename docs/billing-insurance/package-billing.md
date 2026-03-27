@@ -2,6 +2,10 @@
 
 **Healthcare Packages** bundle multiple services at a fixed price, commonly used for maternity packages, health check-ups, or surgical packages.
 
+To create a Healthcare Package:
+
+>Home → Healthcare → Healthcare Package → New
+
 ## Creating a Healthcare Package
 
 1. Go to **Healthcare Package** list
@@ -13,6 +17,7 @@
 | **Package Name** | e.g., "Executive Health Check", "Maternity Package", "Knee Replacement Package" |
 | **Rate** | Total package price |
 | **Package Items** | List of included services |
+
 
 ## Package Items
 
@@ -37,6 +42,11 @@ Each item in the package specifies:
 | Chest X-Ray | 1 |
 | ECG | 1 |
 
+
+![Healthcare Package](../assets/healthcare-package-form.png)
+
+
+
 ## Package Subscriptions
 
 Track which patients have subscribed to packages and the utilization status of included services:
@@ -47,3 +57,11 @@ Track which patients have subscribed to packages and the utilization status of i
 | **Package** | The healthcare package |
 | **Subscription Date** | When the package was purchased |
 | **Utilization** | Which services have been used vs. remaining |
+
+
+![Healthcare Package1](../assets/healthcare-package-form1.png)
+
+
+![Healthcare Package2](../assets/healthcare-package-form2.png)
+
+
