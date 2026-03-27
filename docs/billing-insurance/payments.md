@@ -24,6 +24,9 @@ To record a Payment:
 
 ![Payment from Sales Invoice](../assets/payment-from-invoice.png)
 
+
+![Payment from Sales Invoice2](../assets/payment-from-invoice2.png)
+
 ## Healthcare Payment Records
 
 **Healthcare Payment Records** provide a healthcare-focused view of financial transactions, tracking payments across:
@@ -31,8 +34,6 @@ To record a Payment:
 - Insurance settlements
 - Package subscriptions
 - Advance payments
-
- ![Payment from Sales Invoice2](../assets/payment-from-invoice2.png)
 
 
  ![Payment from Sales Invoice3](../assets/payment-from-invoice3.png)
