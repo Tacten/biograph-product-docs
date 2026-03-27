@@ -28,4 +28,4 @@
 - **Bed board view** (via dashboards) shows real-time occupancy status
 - **Billing integration** — Occupied bed time can be automatically converted to billable items via a daily scheduled task
 
-![Bed and Occupancy Management1](../assets/inpatient-bed-occupancy1.png)
+![Bed and Occupancy Management2](../assets/inpatient-bed-occupancy2.png)
