@@ -59,9 +59,9 @@ Track which patients have subscribed to packages and the utilization status of i
 | **Utilization** | Which services have been used vs. remaining |
 
 
-![Healthcare Package1](../assets/healthcare-package-form1.png)
-
-
 ![Healthcare Package2](../assets/healthcare-package-form2.png)
+
+
+![Healthcare Package1](../assets/healthcare-package-form1.png)
 
 
