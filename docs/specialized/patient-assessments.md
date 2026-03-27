@@ -5,7 +5,7 @@
 To create a Patient Assessment:
 
 >Home → Healthcare → Rehabilitation and Physiotherapy → Patient Assessment → New  
- (or create from Therapy Plan / Therapy Session)
+ (or create from Therapy Session)
 
 ## Assessment Components
 
