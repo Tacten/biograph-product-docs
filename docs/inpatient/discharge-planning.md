@@ -15,3 +15,6 @@ Discharge planning begins during the admission and is finalized when the patient
 5. Once everything is clear, click **Discharge** to complete
 
 > **Note:** If "Allow Discharge Despite Unbilled Items" is disabled in Healthcare Settings, the system will prevent discharge until all billable items are invoiced.
+
+
+![Inpatient Discharge Planning](../assets/inpatient-discharge-planning.png)
