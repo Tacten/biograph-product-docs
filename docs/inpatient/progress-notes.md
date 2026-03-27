@@ -1,11 +1,13 @@
-# Progress Notes
+# Clinical Notes
 
 During an inpatient stay, practitioners conduct regular rounds and document progress:
 
-- **Daily progress notes** via Patient Encounters linked to the Inpatient Record
+- **Daily clinical notes** via Patient Encounters linked to the Inpatient Record
 - **Multiple encounters** per admission — each round creates a new encounter
 - **Vital signs** recorded at regular intervals
 - **Nursing notes** captured through nursing tasks
+
+  ![Inpatient Progress Notes](../assets/inpatient-progress-notes-encounter.png) 
 
 ## Documentation During Admission
 
