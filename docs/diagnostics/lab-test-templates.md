@@ -22,6 +22,8 @@ Navigation:
 | **Result Format** | Normal / Descriptive / Organism (see below) |
 | **Sample Required** | Which sample type is needed (Blood, Urine, etc.) |
 
+![Lab Test Template](../assets/Lab-test-template.png)
+
 ## Result Format Types
 
 | Format | Use Case | Example |
@@ -42,3 +44,5 @@ For tests that contain multiple sub-tests (panels), use **Lab Test Group Templat
 | Platelet Count | /μL | 150,000 - 400,000 |
 | RBC Count | million/μL | 4.5 - 5.5 |
 | Hematocrit | % | 38 - 50 |
+
+![Lab Test Template Result Format](../assets/Lab-test-template-resultformat.png)
