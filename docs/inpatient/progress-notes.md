@@ -3,7 +3,7 @@
 To create Clinical Notes:
 
 >Home → Healthcare → Clinical Note → New
->(or create from Inpatient Record → Create → Clinical Note)
+ (or create from Inpatient Record → Create → Clinical Note)
 
 During an inpatient stay, practitioners conduct regular rounds and document progress:
 
