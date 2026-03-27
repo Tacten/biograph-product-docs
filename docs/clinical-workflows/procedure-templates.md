@@ -30,8 +30,9 @@ Each template can specify consumables (materials used during the procedure):
 | **Item Group** | Category of the consumable |
 
 **Examples:**
+
 | Procedure | Consumables |
-|-----------|-------------|
+|------------|-------------|
 | Wound Dressing | Gauze (2), Bandage (1), Antiseptic (1) |
 | IV Cannulation | IV Cannula (1), Surgical Tape (1), Cotton Swab (2) |
 | Suturing | Suture Kit (1), Local Anesthesia (1), Sterile Drape (1) |
