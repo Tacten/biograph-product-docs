@@ -12,6 +12,9 @@
 
 **Filters available:** Date range, Department, Practitioner, Medical Code
 
+![Diagnosis Trends](../assets/diagnosis-trends-report.png)
+
+
 ## Lab Test Report
 
 **What it shows:** Overview of laboratory test activity.
@@ -24,6 +27,12 @@
 
 **Filters available:** Date range, Lab Test Template, Department, Status
 
+![Lab Test Report](../assets/lab-test-report.png)
+
+
+![Lab Test Report1](../assets/lab-test-report1.png)
+
+
 ## Planned vs Actual Therapy Sessions
 
 **What it shows:** Comparison between prescribed therapy sessions and actual attendance.
@@ -35,3 +44,7 @@
 - Measure therapy program effectiveness
 
 **Filters available:** Date range, Therapy Type, Practitioner, Patient
+
+![Therapy Session Report](../assets/therapy-session-report.png)
+
+
