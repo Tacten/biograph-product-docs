@@ -33,6 +33,11 @@ Invoices can be generated:
 | **From Lab Test** | When lab tests are ordered |
 | **Manual** | Created directly from Sales Invoice list |
 
+
+![Invoice Generation](../assets/invoice-generation.png)
+
+
+
 ## Invoice Line Items
 
 A typical patient invoice may include:
