@@ -7,6 +7,11 @@ To create a Patient Assessment:
 >Home → Healthcare → Rehabilitation and Physiotherapy → Patient Assessment → New  
  (or create from Therapy Session)
 
+
+![Patient Assessment Template](../assets/patient-assessment-template.png)
+
+
+
 ## Assessment Components
 
 | Component | Description |
