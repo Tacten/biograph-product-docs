@@ -2,6 +2,11 @@
 
 Payments are processed through ERPNext's **Payment Entry**.
 
+To record a Payment:
+
+>Home → Accounting → Payment Entry → New  
+ (or Sales Invoice → Open Invoice → Create → Payment)
+
 ## Recording a Payment
 
 1. From a submitted Sales Invoice, click **Create > Payment Entry**
@@ -16,6 +21,9 @@ Payments are processed through ERPNext's **Payment Entry**.
 | **Reference Number** | Transaction reference |
 | **Invoice Reference** | Which invoice(s) this payment covers |
 
+
+![Payment from Sales Invoice](../assets/payment-from-invoice.png)
+
 ## Healthcare Payment Records
 
 **Healthcare Payment Records** provide a healthcare-focused view of financial transactions, tracking payments across:
@@ -23,6 +31,11 @@ Payments are processed through ERPNext's **Payment Entry**.
 - Insurance settlements
 - Package subscriptions
 - Advance payments
+
+ ![Payment from Sales Invoice2](../assets/payment-from-invoice2.png)
+
+
+ ![Payment from Sales Invoice3](../assets/payment-from-invoice3.png)
 
 ## Payment Integration with Insurance
 
