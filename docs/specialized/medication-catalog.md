@@ -2,11 +2,22 @@
 
 The **Medication** record in Biograph serves as a comprehensive drug catalog. Each medication entry contains clinical information needed for safe prescribing and dispensing.
 
+To create a Medication:
+
+>Home → Healthcare → Medication → New
+
+
+
 ## Creating a Medication
 
 1. Go to **Medication** list
 2. Click **+ Add Medication**
 3. Configure the medication:
+
+
+![Medication](../assets/medication-form.png)
+
+
 
 | Field | Description |
 |-------|-------------|
