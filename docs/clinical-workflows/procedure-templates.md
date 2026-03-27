@@ -29,7 +29,7 @@ Each template can specify consumables (materials used during the procedure):
 | **Quantity** | Amount needed per procedure |
 | **Item Group** | Category of the consumable |
 
-**Examples:**
+## Examples:
 
 | Procedure | Consumables |
 |------------|-------------|
