@@ -2,6 +2,12 @@
 
 The **Sample Collection** workflow tracks specimens from the moment they are collected to when they reach the lab.
 
+Navigation:
+
+>Home>Diagnostics>Diagnostics>Sample Collection
+
+>Home>Healthcare>Laboratory>Sample Collection
+
 ## Sample Collection Process
 
 1. A **Lab Test** is ordered (from an encounter or directly)
@@ -13,6 +19,8 @@ The **Sample Collection** workflow tracks specimens from the moment they are col
    - Records the collection time
 4. The sample is transported to the laboratory
 5. The sample status is updated as it progresses
+
+![Sample Collection](../assets/Sample-collection.png)
 
 ## Sample Types
 
@@ -27,6 +35,8 @@ Pre-configure the sample types your lab works with:
 | **Sputum** | Sputum Culture, AFB |
 | **Swab** | Wound Culture, Throat Culture |
 | **CSF** | CSF Analysis |
+
+![Sample Type](../assets/Sample-type.png)
 
 ## Barcode Support
 
