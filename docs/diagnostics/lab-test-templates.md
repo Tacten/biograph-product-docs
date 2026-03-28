@@ -36,7 +36,8 @@ Navigation:
 
 For tests that contain multiple sub-tests (panels), use **Lab Test Group Templates**:
 
-**Example: Complete Blood Count (CBC)**
+## Example: Complete Blood Count (CBC)
+
 | Sub-Test | Unit | Normal Range |
 |----------|------|-------------|
 | Hemoglobin | g/dL | 13.0 - 17.0 |
