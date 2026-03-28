@@ -9,4 +9,4 @@ The **Appointment Calendar** provides a visual overview of all scheduled appoint
 - **Filter by practitioner** — View appointments for a specific doctor
 - **Filter by department** — View all appointments in a department
 
-![Appointment Calendar View](../assets/Appointment-Calendar-View.png)  
+![Calender view_1.png](../assets/calender-view-1.png)  
