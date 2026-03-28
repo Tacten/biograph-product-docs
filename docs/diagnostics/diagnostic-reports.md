@@ -2,6 +2,12 @@
 
 **Diagnostic Reports** are the final, formal reports generated from lab test results. They follow FHIR standards and serve as the official record of laboratory findings.
 
+Navigation:
+
+>Home>Diagnostics>Diagnostics>Diagnostic Report
+
+>Home>Healthcare>Diagnostic Module>Diagnostic Report
+
 ## Report Contents
 
 | Section | Description |
@@ -12,6 +18,8 @@
 | **Interpretation** | Overall interpretation by the lab |
 | **Conclusion** | Summary findings |
 | **Verified By** | Lab technician / approver details |
+
+![Diagnostic Report](../assets/Diagnostic-report.png)
 
 ## Print Formats
 
