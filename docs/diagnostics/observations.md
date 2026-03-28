@@ -4,6 +4,12 @@
 
 **Observations** are the individual measurements or findings within a lab test, following **FHIR (Fast Healthcare Interoperability Resources)** standards.
 
+Navigation:
+
+>Home>Diagnostics>Diagnostics>Observation
+
+>Home>Healthcare>Diagnostic Module>Observation
+
 ### How Observations Work
 
 Each lab test can have multiple observations:
@@ -17,6 +23,8 @@ Each lab test can have multiple observations:
 | **Interpretation** | Normal, Abnormal, Critical |
 | **Notes** | Additional comments from the lab |
 
+![Observations](../assets/Observations.png)
+
 ### Observation Templates
 
 Pre-configure observation templates with:
@@ -24,6 +32,8 @@ Pre-configure observation templates with:
 - **Units of measurement** — Standard lab units
 - **Permitted values** — For qualitative results (Positive/Negative, Reactive/Non-Reactive)
 - **Critical ranges** — Values that trigger alerts
+
+![Observation Template](../assets/Observation-template.png)
 
 ### Reference Ranges
 
