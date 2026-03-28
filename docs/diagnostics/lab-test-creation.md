@@ -23,3 +23,5 @@ Lab tests can be created through several pathways:
 | **Lab Technician** | Who processes the test |
 | **Sample** | Link to the sample collection record |
 | **Status** | Draft → Submitted → Completed / Cancelled |
+
+![Lab Test](../assets/Lab-test.png)
