@@ -4,7 +4,7 @@ Welcome to the Biograph documentation team! This guide will explain how to updat
 
 ## 1. Where Does the Content Live?
 
-All Biograph documentation files are located in the `docs/guide/biograph-docs/` directory of the project.
+All Biograph documentation files are located in the `/biograph-product-docs/biograph-docs` directory of the project.
 
 - The main landing page is `index.md`.
 - Content is organized into functional folders like `getting-started/`, `clinical-workflows/`, `patient-care/`, etc.
@@ -12,7 +12,7 @@ All Biograph documentation files are located in the `docs/guide/biograph-docs/` 
 ## 2. Updating Existing Pages
 
 To update a page that already exists:
-1. Navigate to the `docs/guide/biograph-docs/` directory and open the relevant Markdown (`.md`) file.
+1. Navigate to the `/biograph-product-docs/biograph-docs` directory and open the relevant Markdown (`.md`) file.
 2. Edit the content using standard Markdown syntax.
 3. Save the file. If you are running the site locally, changes will appear immediately. 
 
@@ -24,15 +24,15 @@ To update a page that already exists:
 Adding a new page is a two-step process: First, you write the content, and second, you update the configuration file so the new page appears in the website's sidebar navigation.
 
 ### Step 3a: Create the Markdown File
-1. Identify the correct subdirectory in `docs/guide/biograph-docs/` (e.g., `clinical-workflows/`).
+1. Identify the correct subdirectory in `/biograph-product-docs/biograph-docs` (e.g., `clinical-workflows/`).
 2. Create your new file ending in `.md` (e.g., `new-procedure.md`).
 3. Add a primary heading at the very top of your file using a single `#` (e.g., `# New Procedure Guidelines`).
 4. Write your content below the title and save the file.
 
 ### Step 3b: Update the Sidebar Menu (`config.mts`)
-The sidebar menu lets users find your page. It is controlled by the `docs/.vitepress/config.mts` file. 
+The sidebar menu lets users find your page. It is controlled by the `/biograph-product-docs/biograph-docs/config.mts` file. 
 
-1. Open `docs/.vitepress/config.mts`.
+1. Open `/biograph-product-docs/biograph-docs/config.mts`.
 2. Scroll down to the `themeConfig: { sidebar: { ... } }` section and locate `'/guide/': [...]`.
 3. Inside, you will see a `Biograph Docs` list, which contains sections like "Getting Started", "Clinical Consultation", "Nursing & Tasks", etc.
 4. Find the section where your new page belongs.
@@ -62,6 +62,6 @@ If you added `new-procedure.md` to the `clinical-workflows/` folder, the entry i
 ## 4. Quick Checklist Before Publishing
 
 - [ ] Did I save the new/edited `.md` file?
-- [ ] If I added a new file, did I add its path to `docs/.vitepress/config.mts`?
+- [ ] If I added a new file, did I add its path to `/biograph-product-docs/biograph-docs/config.mts`?
 - [ ] Does the link in `config.mts` omit the `.md` extension?
 - [ ] Did I test the changes locally to make sure formatting is correct?
