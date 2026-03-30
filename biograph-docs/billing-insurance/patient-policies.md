@@ -2,6 +2,10 @@
 
 A **Patient Insurance Policy** links a patient to their insurance coverage.
 
+Navigation:
+
+>Home>Insurance>Insurance>Patient Insurance Policy
+
 ## Adding Insurance to a Patient
 
 1. Open the **Patient** record
@@ -16,5 +20,7 @@ A **Patient Insurance Policy** links a patient to their insurance coverage.
 | **Valid From / To** | Policy validity dates |
 | **Member Name** | Name on the insurance card |
 | **Relation** | Self, Spouse, Dependent, etc. |
+
+![Patient Insurance Policy](../assets/Patient-insurance-policy.png)
 
 > A patient can have multiple insurance policies (primary and secondary coverage).
