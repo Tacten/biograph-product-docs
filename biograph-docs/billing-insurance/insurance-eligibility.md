@@ -4,6 +4,9 @@
 
 **Item Insurance Eligibility** defines which healthcare services and items are covered under specific insurance plans.
 
+Navigation:
+>Home>Insurance>Eligibility>Item Insurance Eligibility
+
 | Field | Description |
 |-------|-------------|
 | **Item** | The healthcare service or product |
@@ -11,6 +14,8 @@
 | **Coverage Percentage** | What percentage the insurance covers (e.g., 80%) |
 | **Maximum Amount** | Cap on the coverage amount |
 | **Pre-authorization Required** | Whether prior approval is needed |
+
+![Insurance Eligibility](../assets/Insurance-eligibiity.png)
 
 ## Coverage Plans (Eligibility Plans)
 
