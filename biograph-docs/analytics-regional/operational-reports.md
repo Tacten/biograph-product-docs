@@ -35,7 +35,7 @@
 **Filters available:** Date range, Practitioner, Department, Medication
 
 
-![Inpatient Medication Orders](../assets/inpatient-medication-orders-report.png)
+![Inpatient Medication Orders1](../assets/inpatient-medication-orders-report1.png)
 
 
 ## Medication Item Wise Sales
