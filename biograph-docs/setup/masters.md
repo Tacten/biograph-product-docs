@@ -6,6 +6,10 @@ Masters are the foundational data that the system uses across all modules. Set t
 
 Medical Departments represent the clinical specialties in your facility.
 
+To create a Medical Department:
+
+>Home → Healthcare → Masters → Medical Department → New
+
 **How to create:**
 1. Go to **Medical Department** list
 2. Click **+ Add Medical Department**
@@ -37,7 +41,14 @@ Service Units represent the **physical locations** within your facility, organiz
 2. Click **Add Child** to create units under a parent
 3. Set the **Service Unit Type**, **Company**, and whether it is an **Occupiable** unit (for beds)
 
+![Healthcare Service Unit](../assets/healthcare-service-unit-tree.png)
+
 ## Healthcare Service Unit Type
+
+
+To create a Healthcare Service Unit Type:
+
+>Home → Healthcare → Masters → Healthcare Service Unit Type → New
 
 Defines the **type** of a service unit and links it to billing items.
 
@@ -50,7 +61,19 @@ Defines the **type** of a service unit and links it to billing items.
 | **Inpatient Occupancy** | Whether this unit type supports bed occupancy |
 | **Is Group** | Whether this is a group/category (not an actual service location) |
 
+![Service Unit Type](../assets/service-unit-type.png)
+
+
+![Service Unit Type1](../assets/service-unit-type1.png)
+
+
+![Service Unit Type2](../assets/service-unit-type2.png)
+
 ## Appointment Type
+To create an Appointment Type:
+
+>Home → Healthcare → Appointment Type → New
+
 
 Define the types of appointments your facility offers.
 
@@ -63,7 +86,16 @@ Define the types of appointments your facility offers.
 
 > **Tip:** You can configure different prices for the same appointment type based on the service unit or department.
 
+![Appointment Type](../assets/appointment-type.png)
+
+
+![Appointment Type]1(../assets/appointment-type1.png)
+
 ## Clinical Procedure Templates
+
+To create a Clinical Procedure Template:
+
+>Home → Healthcare → Clinical Procedure Template → New
 
 Templates define reusable procedure configurations:
 
@@ -76,7 +108,14 @@ Templates define reusable procedure configurations:
 | **Consumables** | List of items consumed during the procedure |
 | **Description** | Procedure description and instructions |
 
+
+![Clinical Procedure Template](../assets/clinical-procedure-template.png)
+
 ## Dosage Forms / Route / Duration
+
+To create a Dosage Form:
+
+>Home → Healthcare → Masters → Dosage Form → New
 
 Configure medication-related masters:
 
@@ -84,7 +123,20 @@ Configure medication-related masters:
 - **Prescription Dosage** — e.g., 1-0-1 (morning-afternoon-night), 1-1-1, 0-0-1
 - **Prescription Duration** — e.g., 3 Days, 5 Days, 1 Week, 2 Weeks, 1 Month
 
+To create a Route of Administration:
+
+>Home → Healthcare → Masters → Route of Administration → New
+
 ## Complaint & Diagnosis Masters
+
+To create a Complaint:
+
+>Home → Healthcare → Masters → Complaint → New
+
+To create a Diagnosis:
+
+Home → Healthcare → Masters → Diagnosis → New
+
 
 - **Complaint** — Pre-defined symptoms/complaints (Fever, Headache, Cough, etc.) for quick selection during encounters
 - **Diagnosis** — Pre-defined diagnoses that can be linked to medical codes (ICD-10, SNOMED)
