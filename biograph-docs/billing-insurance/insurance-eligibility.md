@@ -5,6 +5,7 @@
 **Item Insurance Eligibility** defines which healthcare services and items are covered under specific insurance plans.
 
 Navigation:
+
 >Home>Insurance>Eligibility>Item Insurance Eligibility
 
 | Field | Description |
@@ -19,7 +20,11 @@ Navigation:
 
 ## Coverage Plans (Eligibility Plans)
 
-**Insurance Payor Eligibility Plans** group eligibility rules into named plans:
+**Insurance Payor Eligibility Plans** group eligibility rules into named plans
+
+Navigation:
+
+>Home>Insurance>Eligibility>Insurance Payor Eligibility Plan
 
 | Field | Description |
 |-------|-------------|
@@ -27,6 +32,8 @@ Navigation:
 | **Insurance Payor** | The insurance company offering this plan |
 | **Covered Items** | List of items/services covered under this plan |
 | **Coverage Details** | Percentage, limits, and conditions for each item |
+
+![Insurance Payor Eligibility](../assets/Insurance-payor-eligibility.png)
 
 **Example: Gold Plan Coverage**
 
