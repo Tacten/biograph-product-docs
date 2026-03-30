@@ -92,3 +92,5 @@ Navigate to **Patient History Settings** to configure which documents appear in 
 - **Standard Document Types** — Enable/disable visibility of Encounters, Lab Tests, Vital Signs, Procedures, etc. in patient history
 - **Custom Document Types** — Add any custom doctypes to appear in the patient timeline
 - **Date field and patient link field** must be specified for custom document types
+
+![Patient History Settings](../assets/patient-history-settings.png)
