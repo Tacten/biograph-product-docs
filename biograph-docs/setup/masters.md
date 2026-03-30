@@ -41,7 +41,7 @@ Service Units represent the **physical locations** within your facility, organiz
 2. Click **Add Child** to create units under a parent
 3. Set the **Service Unit Type**, **Company**, and whether it is an **Occupiable** unit (for beds)
 
-![Healthcare Service Unit Tree](../assets/healthcare-service-unit-tree.png)
+![Healthcare Service Unit](../assets/healthcare-service-unit-tree.png)   
 
 ## Healthcare Service Unit Type
 
