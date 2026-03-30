@@ -42,6 +42,25 @@ For hospitals with inpatient capabilities:
 4. Set up **Observation Templates** with reference ranges
 5. Define normal/abnormal value ranges for automated flagging
 
+### Lab Test Templates
+
+To create a Lab Test Template:
+
+Home → Healthcare → Setup → Lab Test Template → New
+
+### Lab Test Sample
+
+To create a Lab Test Sample:
+
+Home → Healthcare → Setup → Lab Test Sample → New
+
+### Lab Test UOM
+
+To create a Lab Test UOM:
+
+Home → Healthcare → Setup → Lab Test UOM → New
+
+
 ## Pharmacy Setup
 
 Biograph uses ERPNext's **Stock module** for pharmacy management:
