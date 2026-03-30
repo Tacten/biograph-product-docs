@@ -64,11 +64,6 @@ Defines the **type** of a service unit and links it to billing items.
 ![Service Unit Type](../assets/service-unit-type.png)
 
 
-![Service Unit Type1](../assets/service-unit-type1.png)
-
-
-![Service Unit Type2](../assets/service-unit-type2.png)
-
 ## Appointment Type
 To create an Appointment Type:
 
