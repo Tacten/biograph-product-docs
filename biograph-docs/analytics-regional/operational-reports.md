@@ -20,6 +20,8 @@
 
 **Filters available:** Date range, Practitioner, Department, Appointment Type, Status
 
+![Patient Appointment Analytics](../assets/patient-appointment-analytics.png)
+
 ## Inpatient Medication Orders Report
 
 **What it shows:** Overview of medication ordering patterns for inpatients.
@@ -32,6 +34,10 @@
 
 **Filters available:** Date range, Practitioner, Department, Medication
 
+
+![Inpatient Medication Orders](../assets/inpatient-medication-orders-report.png)
+
+
 ## Medication Item Wise Sales
 
 **What it shows:** Revenue and volume analysis by medication.
@@ -43,3 +49,5 @@
 - Compare generic vs. branded medication sales
 
 **Filters available:** Date range, Item Group, Item
+
+![Medication Item Wise Sales](../assets/medication-item-wise-sales-report.png)
