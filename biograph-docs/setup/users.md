@@ -10,6 +10,8 @@ Users are created through ERPNext's standard user management:
 4. Assign appropriate roles (see below)
 5. Set up the user's workspace preferences
 
+![User Creation](../assets/user-form.png)
+
 ## Roles & Permissions
 
 Biograph defines these healthcare-specific roles:
@@ -24,6 +26,9 @@ Biograph defines these healthcare-specific roles:
 | **Patient** | Portal access for patients to view their own records, appointments, and prescriptions |
 
 > **Tip:** Users can have multiple roles. A doctor who also manages the clinic can have both "Physician" and "Healthcare Administrator" roles.
+
+
+![User Creation1](../assets/user-form1.png)
 
 ## Practitioner Setup
 
