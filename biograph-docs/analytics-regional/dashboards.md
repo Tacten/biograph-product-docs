@@ -42,3 +42,11 @@ For reporting needs beyond the built-in options:
 4. **Print Formats** — Design custom report layouts for formal reporting
 
 > **Tip:** Set up **Auto Email Reports** in ERPNext to automatically send key reports to administrators on a daily, weekly, or monthly schedule.
+
+
+![Dashboard Overview](../assets/dashboard-overview.png)
+
+
+![Dashboard Overview1](../assets/dashboard-overview1.png)
+
+
