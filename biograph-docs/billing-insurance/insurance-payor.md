@@ -2,6 +2,8 @@
 
 An **Insurance Payor** represents an insurance company or health plan that covers patients' healthcare costs.
 
+Navigation:
+>Home>Insurance>Masters>Insurance Payor
 ## Creating a Payor
 
 1. Go to **Insurance Payor** list
@@ -13,6 +15,8 @@ An **Insurance Payor** represents an insurance company or health plan that cover
 | **Payor Name** | Name of the insurance company |
 | **Contact Details** | Phone, email, address |
 | **Notes** | Any special processing instructions |
+
+![Insurance Payor](../assets/Insurance-payor.png)
 
 ## Common Payors
 
