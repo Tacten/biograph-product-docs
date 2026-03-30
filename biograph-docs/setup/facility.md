@@ -28,6 +28,12 @@ For hospitals with inpatient capabilities:
 3. Each bed is a leaf-level service unit marked as **Occupiable**
 4. The system automatically tracks bed availability and occupancy status
 
+
+![Service Unit Type1](../assets/service-unit-type1.png)
+
+
+![Service Unit Type2](../assets/service-unit-type2.png)
+
 ## Laboratory Setup
 
 1. Create a **Healthcare Service Unit** for your laboratory
