@@ -20,6 +20,8 @@ Overtime Type defines the rules used to calculate overtime and determine payout.
 | Applicable Salary Components | Used when calculation is component-based         |
 | Standard Multiplier          | Base multiplier for overtime pay                 |
 
+![Overtime Type](/images/hr-workforce/overtime-type.png)
+
 ### Multipliers
 
 - **Standard Multiplier** — Applied on regular days  
@@ -30,4 +32,6 @@ Overtime Type defines the rules used to calculate overtime and determine payout.
 Overtime Slip records and processes overtime for a defined period and converts it into payable earnings.
 
 - Used to fetch overtime from attendance  
-- Generates payroll entries  
+- Generates payroll entries
+
+  ![Overtime Slip](/images/hr-workforce/overtime-slip.png)
