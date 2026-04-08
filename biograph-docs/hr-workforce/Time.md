@@ -22,7 +22,7 @@ Timesheet is used to record employee working hours against activities, projects,
 
 Used to track work hours and support payroll and billing.
 
-![Timesheet](/images/hr-workforce/timesheet.png)
+![Timesheet](../assets/Timesheet.png)
 
 ## Activity Type
 
