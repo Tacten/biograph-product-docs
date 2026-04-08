@@ -19,7 +19,7 @@ Shift Types define the working hours and rules used to calculate attendance.
 | Holiday List    | Applies holiday rules for the shift              |
 | Roster Color    | Used for visual identification in roster         |
 
-![Shift Type](/images/hr-workforce/Shift-type.png)
+![Shift Type](/images/hr-workforce/shift-type.png)
 
 ### Settings
 
