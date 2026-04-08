@@ -22,7 +22,9 @@ Attendance records the daily status of an employee.
 ### Details
 
 - **Late Entry** — Employee checked in after allowed time  
-- **Early Exit** — Employee left before shift end  
+- **Early Exit** — Employee left before shift end
+
+  ![Attendance](/images/hr-workforce/attendance.png)
 
 ## Employee Check-in
 
@@ -45,6 +47,8 @@ Attendance Requests are used to correct or update attendance records.
 | Shift              | Applicable shift                     |
 | Include Holidays   | Allows marking on holidays           |
 | Explanation        | Additional details                   |
+
+![Attendance Request](/images/hr-workforce/attendance-request.png)
 
 ## Bulk Attendance
 
