@@ -25,7 +25,7 @@ Shift Types define the working hours and rules used to calculate attendance.
 - **Allow Overtime** — Enables overtime tracking  
 - **Overtime Type** — Defines overtime calculation rules  
 
->Notes: Shift Locations represent where employees perform their shifts within the facility.
+>Shift Locations represent where employees perform their shifts within the facility.
 
 ## Shift Assignment
 
@@ -44,7 +44,7 @@ Shift Assignment links employees to shifts for a defined period.
 
 Used to schedule employees and determine attendance rules.
 
->Notes: Shift Schedules are applied to employees through Shift Schedule Assignments, which automatically generate individual shift assignments.
+>Shift Schedules are applied to employees through Shift Schedule Assignments, which automatically generate individual shift assignments.
 
 ## Shift Requests
 
@@ -60,4 +60,6 @@ Shift Requests allow employees to request changes to assigned shifts.
 | Approver     | Approval authority              |
 | Status       | Draft, Approved, Rejected       |
 
->Notes:Shifts can also be assigned to multiple employees using the **Shift Assignment Tool**. Roster provides a calendar-based interface to manage and adjust shift schedules.
+>Shifts can also be assigned to multiple employees using the **Shift Assignment Tool**.
+
+>Roster provides a calendar-based interface to manage and adjust shift schedules.
