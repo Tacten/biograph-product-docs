@@ -235,6 +235,16 @@ export default defineConfig({
                             ]
                         },
                         {
+                            text: 'Staff & Attendance',
+                            collapsed: true,
+                            items: [
+                                { text: 'Shift Management', link: '/guide/biograph-docs/hr-workforce/shift-management' },
+                                { text: 'Attendance Management', link: '/guide/biograph-docs/hr-workforce/attendance-management' },
+                                { text: 'Time Tracking', link: '/guide/biograph-docs/hr-workforce/time' },
+                                { text: 'Overtime Management', link: '/guide/biograph-docs/hr-workforce/overtime' },
+                             ]
+                        },
+                        {
                             text: 'Practitioner Management',
                             collapsed: true,
                             items: [
