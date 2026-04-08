@@ -22,6 +22,8 @@ Timesheet is used to record employee working hours against activities, projects,
 
 Used to track work hours and support payroll and billing.
 
+![Timesheet](/images/hr-workforce/timesheet.png)
+
 ## Activity Type
 
 Activity Type defines categories of work used in timesheets and helps determine billing and costing.
