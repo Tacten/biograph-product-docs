@@ -19,6 +19,8 @@ Shift Types define the working hours and rules used to calculate attendance.
 | Holiday List    | Applies holiday rules for the shift              |
 | Roster Color    | Used for visual identification in roster         |
 
+![Shift Type](/images/hr-workforce/Shift-type.png)
+
 ### Settings
 
 - **Enable Auto Attendance** — Marks attendance based on check-ins  
@@ -44,6 +46,8 @@ Shift Assignment links employees to shifts for a defined period.
 
 Used to schedule employees and determine attendance rules.
 
+![Shift Assignment](/images/hr-workforce/Shift-assignment.png)
+
 >Shift Schedules are applied to employees through Shift Schedule Assignments, which automatically generate individual shift assignments.
 
 ## Shift Requests
@@ -63,3 +67,5 @@ Shift Requests allow employees to request changes to assigned shifts.
 >Shifts can also be assigned to multiple employees using the **Shift Assignment Tool**.
 
 >Roster provides a calendar-based interface to manage and adjust shift schedules.
+
+![Roster](/images/hr-workforce/Roster.png)
