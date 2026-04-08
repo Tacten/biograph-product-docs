@@ -2,7 +2,8 @@
 
 Shift Management handles how staff shifts are defined, assigned, and scheduled within the system, ensuring proper workforce allocation and accurate attendance processing.
 
-## Navigation
+## Navigation:
+
 >Home>HR>Shift & Attendance>Shifts
 
 ## Shift Types
