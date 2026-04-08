@@ -26,4 +26,4 @@ Used to track work hours and support payroll and billing.
 
 Activity Type defines categories of work used in timesheets and helps determine billing and costing.
 
->Notes:Submitted Timesheets are used for payroll and billing calculations  
+>Submitted Timesheets are used for payroll and billing calculations  
