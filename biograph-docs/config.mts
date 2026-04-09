@@ -261,6 +261,7 @@ export default defineConfig({
                             items: [
                                 { text: 'Prerequisites', link: '/guide/biograph-docs/clinical-workflows/appointment-prerequisites' },
                                 { text: 'Booking Appointments', link: '/guide/biograph-docs/clinical-workflows/booking-appointments' },
+                                { text: 'Queue Management', link: '/guide/biograph-docs/clinical-workflows/appointment-queue-management' },
                                 { text: 'Appointment Calendar', link: '/guide/biograph-docs/clinical-workflows/appointment-calendar' },
                                 { text: 'Cancel & Reschedule', link: '/guide/biograph-docs/clinical-workflows/cancel-reschedule' },
                                 { text: 'Status Workflow', link: '/guide/biograph-docs/clinical-workflows/appointment-status' },
