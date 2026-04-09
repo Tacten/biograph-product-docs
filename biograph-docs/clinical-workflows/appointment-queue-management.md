@@ -9,7 +9,7 @@ It ensures a smooth consultation flow and reduces waiting confusion for both pat
 
 Queue Management is integrated within:
 
->Home → Healthcare → Patient Appointment**
+>Home → Healthcare → Patient Appointment
 
 It becomes active when a patient is **Checked In**.
 
@@ -41,7 +41,7 @@ When a patient checks in:
 
 Patient flow follows this sequence:
 
->Scheduled → Checked In → Waiting → In Consultation → Completed**
+>Scheduled → Checked In → Waiting → In Consultation → Completed
 
 ### Status Meaning
 
