@@ -4,7 +4,6 @@ Queue Management helps organize patient flow in real time by assigning queue num
 
 It ensures a smooth consultation flow and reduces waiting confusion for both patients and staff.
 
----
 
 ## Where It Works
 
@@ -14,7 +13,7 @@ Queue Management is integrated within:
 
 It becomes active when a patient is **Checked In**.
 
----
+![Queue Management Form](../assets/queue-management-form.png)
 
 ## How Queue is Generated
 
@@ -26,7 +25,6 @@ When a patient checks in:
 - Estimated Wait Time is auto-calculated
 - Queue is maintained **per practitioner and per date**
 
----
 
 ## Queue Fields
 
@@ -38,7 +36,6 @@ When a patient checks in:
 | Estimated Wait (minutes) | Calculated wait time based on queue |
 | Status | Current appointment status (Waiting, In Consultation, Completed, etc.) |
 
----
 
 ## Queue Workflow
 
@@ -56,7 +53,6 @@ Patient flow follows this sequence:
 | Completed | Consultation finished |
 | Cancelled / No Show | Patient did not attend |
 
----
 
 ## Queue Calculation Logic
 
@@ -76,8 +72,6 @@ Estimated wait time is calculated as:
 
 Average consultation duration is derived from the **Appointment Type configuration** and updates dynamically as the queue changes.
 
----
-
 ## Real-Time Queue Updates
 
 The system automatically updates:
@@ -92,23 +86,20 @@ Whenever:
 - A new patient checks in  
 - A consultation is completed  
 
----
-
 ## Next Patient (Reception Dashboard)
 
-
+![Next Patient Dashboard](../assets/next-patient-dashboard.png)
 
 Reception dashboard highlights the next patients in queue:
 
 - Shows upcoming patients for each doctor  
 - Helps staff call the next patient quickly  
-- Provides quick visibility of queue flow  
-
----
+- Provides quick visibility of queue flow
+  
 
 ## Queue Status View
 
-
+![Queue Status View](../assets/queue-status-view.png)
 
 A dedicated Queue Status View provides:
 
@@ -122,7 +113,6 @@ A dedicated Queue Status View provides:
 - Hospital administrators  
 - Monitoring patient flow  
 
----
 
 ## Key Benefits
 
@@ -132,7 +122,6 @@ A dedicated Queue Status View provides:
 - Enhances patient experience  
 - Supports operational efficiency  
 
----
 
 ## Important Notes
 
