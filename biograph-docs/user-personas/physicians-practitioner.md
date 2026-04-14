@@ -10,7 +10,7 @@ Use this page as a quick navigation guide. Each workflow represents a common tas
 This is the most common workflow followed during outpatient consultation.
 
 Workflow:  
-Patient Appointment → Patient → Patient Encounter → Diagnosis & Clinical Notes → Orders & Prescriptions → Follow-up & Fee Validity
+[Patient Appointment](../clinical-workflows/booking-appointments.md) → [Patient](../patient-care/registration.md) → [Patient Encounter](../clinical-workflows/encounter-overview.md) → [Diagnosis & Clinical Notes](../clinical-workflows/clinical-documentation.md) → [Orders & Prescriptions](../clinical-workflows/orders-prescriptions.md) → [Follow-up & Fee Validity](../clinical-workflows/followup-fee-validity.md)
 
 Steps Explained:
 - Patient Appointment – View scheduled patients and manage queue  
