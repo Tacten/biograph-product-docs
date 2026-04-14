@@ -7,35 +7,48 @@ This page provides a simple navigation guide for common patient tasks.
 Use this page as a quick navigation guide. Each workflow represents a common patient task and shows the exact system path to follow.
 
 ## Core Workflow
+
 Access healthcare services and records through the portal.
 
-Workflow:  
-Patient Portal → Appointments → Diagnostics → Follow-up Appointment
+**Workflow:**  
+[Patient Portal](../patient-portal/patient-portal.md) → [Appointments](../appointments/booking-appointments.md) → [Diagnostics](../laboratory-diagnostics/diagnostic-reports.md) → Follow-up Appointment  
 
-Steps Explained:
-- Patient Portal – Entry point for all patient actions  
-- Appointments – Book and manage consultations  
-- Diagnostics – View lab tests and reports  
-- Follow-up Appointment – Plan next visit  
+## Steps Explained
+
+- **Patient Portal** – Entry point for all patient actions  
+- **Appointments** – Book and manage consultations  
+- **Diagnostics** – View lab tests and reports  
+- **Follow-up Appointment** – Plan next visit  
 
 ## Daily Jobs To Be Done
 
-### 1. Book Appointments
-Schedule a consultation by selecting department, doctor, time slot, and completing payment.  
+### 1. Book Appointments  
 Workflow:  
-Patient Portal → Appointments → Book → Select Department → Select Practitioner → Select Slot → Payment → Confirmation  
+[Patient Portal](../patient-portal/patient-portal.md) → [Appointments](../appointments/booking-appointments.md) → Book → Select Department → Select Practitioner → Select Slot → Payment → Confirmation  
 
-### 2. View Diagnostic Reports
-Access lab test results and view detailed reports.  
+### 2. View Diagnostic Reports  
 Workflow:  
-Patient Portal → Diagnostics → Select Report → View Details  
+[Patient Portal](../patient-portal/patient-portal.md) → [Diagnostics](../laboratory-diagnostics/diagnostic-reports.md) → Select Report → View Details  
 
-### 3. Track Appointments
-Monitor upcoming, completed, or missed appointments.  
+### 3. Track Appointments  
 Workflow:  
-Patient Portal → Appointments → View Status  
+[Patient Portal](../patient-portal/patient-portal.md) → [Appointments](../appointments/booking-appointments.md) → View Status  
 
-### 4. Plan Follow-up Appointment
-Book follow-up consultations based on previous visits or reports.  
+### 4. Plan Follow-up Appointment  
 Workflow:  
-Patient Portal → Appointments → Book → Follow-up  
+[Patient Portal](../patient-portal/patient-portal.md) → [Appointments](../appointments/booking-appointments.md) → Book → Follow-up  
+
+## Key Navigation Insight
+
+Most patient activities revolve around a single core entry point:
+
+- **Patient Portal** – Central access for all patient interactions  
+
+From the portal, patients can:
+
+- book and manage appointments  
+- view diagnostic reports and results  
+- track their healthcare journey  
+- plan follow-up visits  
+
+Understanding this central entry point enables patients to easily navigate and access all healthcare services.
