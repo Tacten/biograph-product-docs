@@ -7,85 +7,80 @@ This page provides a structured overview of billing workflows to help users effi
 Use this page as a quick navigation guide. Each workflow represents a common billing task and shows the exact system path to follow.
 
 ## Core Billing Workflow (Primary Loop)
+
 This is the most common workflow followed for patient billing and payment processing.
 
-Workflow:  
-Service Item Mapping → Patient Billing → Invoice Workflow → Payment Processing → Optional: Insurance Eligibility → Insurance Claim → Financial Reports
+**Workflow:**  
+[Service Item Mapping](../billing-insurance/service-items.md) → [Patient Billing](../billing-insurance/patient-billing.md) → [Invoice Workflow](../billing-insurance/invoice-workflow.md) → [Payment Processing](../billing-insurance/payment-processing.md) → Optional: [Insurance Eligibility](../billing-insurance/eligibility.md) → [Insurance Claim](../billing-insurance/claim-workflow.md) → [Financial Reports](../billing-insurance/financial-reports.md)
 
-Explanation:
-- Service Item Mapping – Map healthcare services (consultation, lab, procedures) to billable items  
-- Patient Billing – Capture services using Get Items from Healthcare Services  
-- Invoice Workflow – Manage invoice lifecycle (Draft → Submitted → Outstanding → Paid / Partly Paid / Cancelled)  
-- Payment Processing – Record payments (cash, UPI, card, etc.)  
-- Insurance Claim (Optional) – Submit and track insurance claims  
-- Financial Reports – Monitor revenue, outstanding, and performance  
+## Explanation
+
+- **Service Item Mapping** – Map healthcare services (consultation, lab, procedures) to billable items  
+- **Patient Billing** – Capture services using Get Items from Healthcare Services  
+- **Invoice Workflow** – Manage invoice lifecycle (Draft → Submitted → Outstanding → Paid / Partly Paid / Cancelled)  
+- **Payment Processing** – Record payments (cash, UPI, card, etc.)  
+- **Insurance Claim (Optional)** – Submit and track insurance claims  
+- **Financial Reports** – Monitor revenue, outstanding, and performance  
+
+---
 
 ## Daily Jobs To Be Done
 
-### 1. Capture Patient Services for Billing
-Ensure all clinical services are correctly captured for billing.  
+### 1. Capture Patient Services for Billing  
 Workflow:  
-Service Item Mapping → Patient Billing (Sales Invoice → Get Items from Healthcare Services)  
+[Service Item Mapping](../billing-insurance/service-items.md) → [Patient Billing](../billing-insurance/patient-billing.md) (Sales Invoice → Get Items from Healthcare Services)  
 
-### 2. Generate Patient Invoices
-Create invoices based on services provided.  
+### 2. Generate Patient Invoices  
 Workflow:  
-Patient Billing → Invoice Workflow  
+[Patient Billing](../billing-insurance/patient-billing.md) → [Invoice Workflow](../billing-insurance/invoice-workflow.md)  
 
-### 3. Process Payments
-Record and manage payments from patients.  
+### 3. Process Payments  
 Workflow:  
-Invoice Workflow → Payment Processing (Payment Entry)  
+[Invoice Workflow](../billing-insurance/invoice-workflow.md) → [Payment Processing](../billing-insurance/payment-processing.md) (Payment Entry)  
 
-### 4. Verify Charges & Billing Accuracy
-Ensure all billing entries are accurate before finalization.  
+### 4. Verify Charges & Billing Accuracy  
 Workflow:  
-Patient Billing → Invoice Workflow → Review → Submit  
+[Patient Billing](../billing-insurance/patient-billing.md) → [Invoice Workflow](../billing-insurance/invoice-workflow.md) → Review → Submit  
 
-### 5. Track Billing & Financial Status
-Monitor payments, pending invoices, and financial performance.  
+### 5. Track Billing & Financial Status  
 Workflow:  
-Invoice Workflow → Payment Processing → Financial Reports  
+[Invoice Workflow](../billing-insurance/invoice-workflow.md) → [Payment Processing](../billing-insurance/payment-processing.md) → [Financial Reports](../billing-insurance/financial-reports.md)  
 
-### 6. Handle Billing Corrections & Adjustments
-Update invoices in case of errors, service changes, or pricing updates.  
+### 6. Handle Billing Corrections & Adjustments  
 Workflow:  
-Invoice Workflow → Patient Billing → Update Invoice  
+[Invoice Workflow](../billing-insurance/invoice-workflow.md) → [Patient Billing](../billing-insurance/patient-billing.md) → Update Invoice  
 
-### 7. Process Refunds
-Manage refunds for cancellations or overpayments using invoice adjustments.  
+### 7. Process Refunds  
 Workflow:  
-Invoice Workflow → Amend Invoice / Cancel → Update → Resubmit  
+[Invoice Workflow](../billing-insurance/invoice-workflow.md) → Amend Invoice / Cancel → Update → Resubmit  
 
-### 8. Handle Partial Payments
-Track and manage invoices that are partially paid until full settlement.  
+### 8. Handle Partial Payments  
 Workflow:  
-Invoice Workflow → Partly Paid → Payment Processing  
+[Invoice Workflow](../billing-insurance/invoice-workflow.md) → Partly Paid → [Payment Processing](../billing-insurance/payment-processing.md)  
 
-### 9. Manage Healthcare Packages
+### 9. Manage Healthcare Packages  
 
-Option 1: Billing-based Package  
+**Option 1: Billing-based Package**  
 Workflow:  
-Patient Billing → Get Items from Healthcare Services → Select Package Items → Invoice Workflow → Payment Processing  
+[Patient Billing](../billing-insurance/patient-billing.md) → Get Items from Healthcare Services → Select Package Items → [Invoice Workflow](../billing-insurance/invoice-workflow.md) → [Payment Processing](../billing-insurance/payment-processing.md)  
 
-Option 2: Subscription-based Package  
+**Option 2: Subscription-based Package**  
 Workflow:  
-Healthcare Package → Package Subscription → Payment Entry → Package Utilization  
-
-### 10. Handle Insurance Billing
-Manage insurance-based billing where payments are covered fully or partially by insurers.  
+[Healthcare Package](../billing-insurance/healthcare-package.md) → Package Subscription → [Payment Processing](../billing-insurance/payment-processing.md) → Package Utilization  
+### 10. Handle Insurance Billing  
 Workflow:  
-Patient Billing → Invoice Workflow → Insurance Eligibility → Insurance Claim → Payment Processing (if partial/self-pay)  
+[Patient Billing](../billing-insurance/patient-billing.md) → [Invoice Workflow](../billing-insurance/invoice-workflow.md) → [Insurance Eligibility](../billing-insurance/eligibility.md) → [Insurance Claim](../billing-insurance/claim-workflow.md) → [Payment Processing](../billing-insurance/payment-processing.md) (if partial/self-pay)  
 
 ## Key Navigation Insight
 
 Most billing activities revolve around three core areas:
 
-- Patient Billing – Entry point for capturing services and charges  
-- Sales Invoice (Invoice Workflow) – Central hub for billing lifecycle and status tracking  
-- Payment Entry – Manage payments, settlements, and adjustments  
+- **Patient Billing** – Entry point for capturing services and charges  
+- **Sales Invoice (Invoice Workflow)** – Central hub for billing lifecycle and status tracking  
+- **Payment Entry** – Manage payments, settlements, and adjustments  
 
 From these, billing staff can:
+
 - capture services from appointments, encounters, and lab tests  
 - generate and manage invoices  
 - process full and partial payments  
