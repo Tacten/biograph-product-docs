@@ -2,6 +2,10 @@
 
 Biograph includes **23 pre-configured KPI cards** and **14 dashboard charts** providing at-a-glance visibility into your facility's operations.
 
+Navigation:
+
+>Home → Dashboard
+
 ## Key Performance Indicators (Number Cards)
 
 KPI cards display real-time metrics on your dashboard:
