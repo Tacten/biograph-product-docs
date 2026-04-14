@@ -62,7 +62,7 @@ Workflow:
 #### 7. Process Payments
 Collect and record patient payments.  
 Workflow:  
-[Sales Invoice](../billing-insurance/invoice-workflow.md) → [Payment Entry](../billing-insurance/payments.md) → Record Payment → Update Status 
+[Sales Invoice](../billing-insurance/invoice-workflow.md) → [Payment Entry](../billing-insurance/payments.md) → [Record Payment](../billing-insurance/payments.md) → Update Status 
 
 #### 8. Handle Insurance & Coverage
 Manage insurance-linked billing.  
