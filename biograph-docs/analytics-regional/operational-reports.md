@@ -1,5 +1,9 @@
 # Operational Reports
 
+Navigation:
+
+>Home → Build → Reports 
+
 ## Patient Appointment Analytics
 
 **What it shows:** Comprehensive analysis of appointment patterns.
