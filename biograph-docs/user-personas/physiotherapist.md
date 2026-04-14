@@ -6,77 +6,95 @@ This page provides a structured overview of daily therapy workflows to help phys
 ## How to Use This Page
 Use this page as a quick navigation guide. Each workflow represents a therapy-related task and shows the exact system path to follow.
 
+---
+
 ## Core Therapy Workflow (Primary Loop)
+
 This is the most common workflow followed during patient rehabilitation.
 
-Workflow:  
-Patient Encounter → Therapy Plan → Therapy Session → Clinical Note → Patient Assessment → Tracking Progress → Follow-up
+**Workflow:**  
+[Patient Encounter](../clinical-consultation/encounter-overview.md) → [Therapy Plan](../rehabilitation/therapy-plans.md) → [Therapy Session](../rehabilitation/therapy-sessions.md) → [Clinical Note](../clinical-consultation/clinical-documentation.md) → [Patient Assessment](../rehabilitation/patient-assessments.md) → Tracking Progress → Follow-up  
 
-Steps Explained:
-- Patient Encounter – Receive patient case from doctor or system  
-- Therapy Plan – Define treatment plan and therapy goals  
-- Therapy Session – Conduct therapy sessions  
-- Clinical Note – Document session-level observations and outcomes  
-- Patient Assessment – Record patient condition and improvements  
-- Tracking Progress – Monitor recovery over time using therapy sessions and assessments  
-- Follow-up – Plan next sessions  
+---
+
+## Steps Explained
+
+- **Patient Encounter** – Receive patient case from doctor or system  
+- **Therapy Plan** – Define treatment plan and therapy goals  
+- **Therapy Session** – Conduct therapy sessions  
+- **Clinical Note** – Document session-level observations and outcomes  
+- **Patient Assessment** – Record patient condition and improvements  
+- **Tracking Progress** – Monitor recovery over time using therapy sessions and assessments  
+- **Follow-up** – Plan next sessions  
+
+---
 
 ## Daily Jobs To Be Done
 
-### 1. Review Patient Case
-Understand the patient’s diagnosis, history, and prescribed therapy before starting treatment.  
+### 1. Review Patient Case  
 Workflow:  
-Patient Dashboard → Medical History → Encounter → Therapy Plan  
+[Patient Dashboard](../patient-management/patient-dashboard.md) → Medical History → [Patient Encounter](../clinical-consultation/encounter-overview.md) → [Therapy Plan](../rehabilitation/therapy-plans.md) 
 
-### 2. Create Therapy Plan
-Design a structured rehabilitation plan by selecting therapy types, defining session counts, and setting treatment goals.  
-Workflow:  
-Therapy Types → Therapy Plan → Plan Details  
+---
 
-### 3. Conduct Therapy Session
-Execute therapy sessions as per the plan by performing exercises, tracking counts, and recording session-level details.  
+### 2. Create Therapy Plan  
 Workflow:  
-Therapy Plan → Therapy Session → Exercises → Session Documentation  
+[Therapy Types](../rehabilitation/therapy-types.md) → [Therapy Plan](../rehabilitation/therapy-plans.md) → Plan Details  
 
-### 4. Record Clinical Notes
-Document therapist observations, patient response, and any clinical insights after each session.  
-Workflow:  
-Therapy Session → Clinical Note  
+---
 
-### 5. Record Patient Assessment
-Evaluate patient condition using structured assessments and record measurable outcomes.  
+### 3. Conduct Therapy Session  
 Workflow:  
-Patient Assessments → Assessment Sheet  
+[Therapy Plan](../rehabilitation/therapy-plans.md) → [Therapy Session](../rehabilitation/therapy-sessions.md) → Exercises → Session Documentation  
 
-### 6. Monitor Progress
-Track patient improvement over time by comparing therapy sessions and assessment results, and update treatment if required.  
-Workflow:  
-Therapy Sessions → Patient Assessments → Tracking Progress  
+---
 
-### 7. Coordinate with Doctor
-Share patient updates, clinical findings, and align therapy plans with the referring physician.  
+### 4. Record Clinical Notes  
 Workflow:  
-Clinical Note → Doctor Review  
+[Therapy Session](../rehabilitation/therapy-sessions.md) → [Clinical Note](../clinical-consultation/clinical-documentation.md)  
 
-### 8. Manage Therapy Schedule
-Plan and manage upcoming therapy sessions, ensuring continuity of care and timely follow-ups.  
-Workflow:  
-Therapy Session → Appointment → Follow-up  
+---
 
-### 9. Use Therapy Templates
-Use predefined therapy plan templates to quickly create standardized treatment plans and improve efficiency.  
+### 5. Record Patient Assessment  
 Workflow:  
-Therapy Plan Templates → Therapy Plan  
+[Patient Assessments](../rehabilitation/patient-assessments.md) → Assessment Sheet  
+
+---
+
+### 6. Monitor Progress  
+Workflow:  
+[Therapy Session](../rehabilitation/therapy-sessions.md) → [Patient Assessments](../rehabilitation/patient-assessments.md) → Tracking Progress  
+
+---
+
+### 7. Coordinate with Doctor  
+Workflow:  
+[Clinical Note](../clinical-consultation/clinical-documentation.md) → Doctor Review  
+
+---
+
+### 8. Manage Therapy Schedule  
+Workflow:  
+[Therapy Session](../rehabilitation/therapy-sessions.md) → [Appointment](../appointments/booking-appointments.md) → Follow-up  
+
+---
+
+### 9. Use Therapy Templates  
+Workflow:  
+[Therapy Plan Templates](../rehabilitation/therapy-plan-templates.md) → [Therapy Plan](../rehabilitation/therapy-plans.md)  
+
+---
 
 ## Key Navigation Insight
 
 Most physiotherapy activities revolve around three core areas:
 
-- Patient / Patient Encounter – Entry point for assessment and treatment planning  
-- Therapy Plan – Structured rehabilitation plan for the patient  
-- Therapy Session – Execution and tracking of therapy progress  
+- **Patient / Patient Encounter** – Entry point for assessment and treatment planning  
+- **Therapy Plan** – Structured rehabilitation plan for the patient  
+- **Therapy Session** – Execution and tracking of therapy progress  
 
 From these, physiotherapists can:
+
 - assess patient condition and functional status  
 - create personalized therapy plans  
 - conduct and record therapy sessions  
