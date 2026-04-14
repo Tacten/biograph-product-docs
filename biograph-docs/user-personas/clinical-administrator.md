@@ -26,52 +26,53 @@ Explanation:
 ### 1. Configure Healthcare Settings
 Define and manage system-wide healthcare configurations.  
 Workflow:  
-Healthcare Settings → Review Configuration → Update Settings  
+[Healthcare Settings](../setup/healthcare-settings.md) → Review Configuration → Update Settings  
 
 ### 2. Create & Manage Departments
 Set up and maintain department hierarchy and structure.  
 Workflow:  
-Masters Configuration → Medical Department → Create / Edit → Define Hierarchy  
+[Masters Configuration](../setup/masters.md) → [Medical Department](../setup/masters.md) → Create / Edit → Define Hierarchy   
 
 ### 3. Set Up Healthcare Service Units
 Define service locations such as consultation rooms, wards, and beds.  
 Workflow:  
-Facility Setup → Healthcare Service Unit → Create Units → Set Capacity  
+[Facility Setup](../setup/facility.md) → [Healthcare Service Unit](../setup/facility.md) → Create Units → Set Capacity  
 
 ### 4. Define Appointment Types & Billing
 Configure appointment categories, duration, and billing rules.  
 Workflow:  
-Appointment Type → Define Type → Set Duration → Link Billing (Service Item Mapping)  
+[Appointment Type](../clinical-workflows/appointment-prerequisites.md) → Define Type → Set Duration → Link Billing ([Service Item Mapping](../billing-insurance/service-items.md))  
 
 ### 5. Manage Practitioner Setup
 Register and manage healthcare practitioners.  
 Workflow:  
-Healthcare Practitioner Setup → Practitioner Types → Practitioner Availability & Schedule → Practitioner Charges  
+[Healthcare Practitioner Setup](../patient-care/practitioner-setup.md) →  [Practitioner Types](../patient-care/practitioner-types.md) →  [Practitioner Availability & Schedule](../patient-care/practitioner-scheduling.md) →  [Practitioner Charges](../patient-care/practitioner-charges.md)   
 
 ### 6. Manage User Accounts & Roles
 Create users and assign appropriate roles and permissions.  
 Workflow:  
-User Management → Create User → Roles & Permissions → Configure Access  
+[User Management](../setup/users.md) → Create User → [Roles & Permissions](../setup/users.md)→ Configure Access  
 
 ### 7. Monitor System Configuration & Updates
 Ensure configurations are up-to-date and aligned with operations.  
 Workflow:  
-Healthcare Settings → Review → Update → Validate  
+[Healthcare Settings](../setup/healthcare-settings.md) → Review → Update → Validate  
 
 ### 8. Oversee Billing Configuration
 Ensure billing setup (items, pricing, appointment billing) is correctly configured.  
 Workflow:  
-Service Item Mapping → Item → Pricing → Validation  
+[Service Item Mapping](../billing-insurance/service-items.md) → Item → Pricing → Validation  
 
 ### 9. Monitor Resource & Facility Utilization
 Track usage of departments, service units, and practitioner availability.  
 Workflow:  
-Facility Setup → Bed & Occupancy → Availability & Scheduling  
+[Facility Setup](../setup/facility.md) →  [Bed & Occupancy](../inpatient/bed-management.md) →  [Practitioner Availability & Schedule](../patient-care/practitioner-scheduling.md)  
 
 ### 10. Ensure Compliance & System Governance
 Maintain system security, user access control, and audit readiness.  
 Workflow:  
-User Management → Security & Compliance → Roles & Permissions (Access Control) → Monitoring  
+[User Management](../setup/users.md) → [Security & Compliance](../setup/security.md) →  [Roles & Permissions](../setup/users.md) → Monitoring  
+
 
 ## Key Navigation Insight
 
