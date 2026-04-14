@@ -1,5 +1,9 @@
 # Clinical Reports
 
+Navigation:
+
+>Home → Build → Reports
+
 ## Diagnosis Trends
 
 **What it shows:** Frequency and trends of diagnoses over time.
