@@ -10,7 +10,13 @@ Use this page as a quick navigation guide. Each workflow represents a key admini
 This is the most common workflow followed for system setup and ongoing administration.
 
 Workflow:  
-Healthcare Settings → Masters Configuration → Facility Setup → Appointment Type → Practitioner Management → User Management → Security & Compliance
+[Healthcare Settings](/guide/biograph-docs/setup/healthcare-settings) → 
+[Masters Configuration](/guide/biograph-docs/setup/masters) → 
+[Facility Setup](/guide/biograph-docs/setup/facility) → 
+[Appointment Type](/guide/biograph-docs/clinical-workflows/appointment-prerequisites) → 
+[Practitioner Management](/guide/biograph-docs/patient-care/practitioner-setup) → 
+[User Management](/guide/biograph-docs/setup/users) → 
+[Security & Compliance](/guide/biograph-docs/setup/security)
 
 Explanation:
 - Healthcare Settings – Configure global system rules and defaults  
