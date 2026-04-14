@@ -7,79 +7,74 @@ This page provides a structured overview of management workflows to help users q
 Use this page as a quick navigation guide. Each workflow represents a key management activity and shows the exact system path to follow.
 
 ## Core Management Workflow (Primary Loop)
+
 This is the most common workflow followed for monitoring and decision-making.
 
-Workflow:  
-Dashboards & KPIs → Clinical Reports → Operational Reports → Financial Reports → Decision & Action
+**Workflow:**  
+[Dashboards & KPIs](../reports-analytics/dashboards-kpis.md) → [Clinical Reports](../reports-analytics/clinical-reports.md) → [Operational Reports](../reports-analytics/operational-reports.md) → [Financial Reports](../reports-analytics/financial-reports.md) → Decision & Action  
 
-Steps Explained:
-- Dashboards & KPIs – View real-time hospital performance metrics  
-- Clinical Reports – Analyze patient outcomes and care quality  
-- Operational Reports – Monitor efficiency (appointments, utilization, delays)  
-- Financial Reports – Track revenue, billing, and financial health  
-- Decision & Action – Take actions based on insights  
+## Steps Explained
+
+- **Dashboards & KPIs** – View real-time hospital performance metrics  
+- **Clinical Reports** – Analyze patient outcomes and care quality  
+- **Operational Reports** – Monitor efficiency (appointments, utilization, delays)  
+- **Financial Reports** – Track revenue, billing, and financial health  
+- **Decision & Action** – Take actions based on insights  
+
+---
 
 ## Daily Jobs To Be Done
 
-### 1. Monitor Hospital KPIs
-Track key performance indicators such as patient volume, revenue, and operational efficiency.  
+### 1. Monitor Hospital KPIs  
 Workflow:  
-Dashboards & KPIs → Review KPIs → Analyze Trends  
+[Dashboards & KPIs](../reports-analytics/dashboards-kpis.md) → Review KPIs → Analyze Trends  
 
-### 2. Review Clinical & Operational Performance
-Analyze reports to evaluate quality of care and operational efficiency.  
+### 2. Review Clinical & Operational Performance  
 Workflow:  
-Clinical Reports → Operational Reports → Analyze Performance  
+[Clinical Reports](../reports-analytics/clinical-reports.md) → [Operational Reports](../reports-analytics/operational-reports.md) → Analyze Performance  
 
-### 3. Monitor Financial Performance
-Track revenue, outstanding payments, and financial trends.  
+### 3. Monitor Financial Performance  
 Workflow:  
-Financial Reports → Analyze Revenue → Track Payments  
+[Financial Reports](../reports-analytics/financial-reports.md) → Analyze Revenue → Track Payments  
 
-### 4. Oversee Hospital Operations
-Ensure smooth functioning across departments like OPD, IPD, Lab, and Billing.  
+### 4. Oversee Hospital Operations  
 Workflow:  
-Appointment Calendar → Inpatient Management → Laboratory & Diagnostics → Billing & Finance  
+[Appointment Calendar](../appointments/appointment-calendar.md) → [Inpatient Management](../inpatient/admission-process.md) → [Laboratory & Diagnostics](../laboratory-diagnostics/lab-test-creation.md) → [Billing & Finance](../billing-insurance/patient-billing.md)  
 
-### 5. Identify Issues & Bottlenecks
-Detect delays, inefficiencies, or operational issues in workflows.  
+### 5. Identify Issues & Bottlenecks  
 Workflow:  
-Dashboards & KPIs → Operational Reports → Identify Issues  
+[Dashboards & KPIs](../reports-analytics/dashboards-kpis.md) → [Operational Reports](../reports-analytics/operational-reports.md) → Identify Issues  
 
-### 6. Monitor Resource Utilization
-Track usage of beds, staff, and service units.  
+### 6. Monitor Resource Utilization  
 Workflow:  
-Bed & Occupancy → Practitioner Management → Monitor Utilization  
+[Bed & Occupancy](../inpatient/bed-management.md) → [Practitioner Management](../patient-care/practitioner-setup.md) → Monitor Utilization  
 
-### 7. Manage System Configuration & Users
-Configure hospital settings, manage users, and ensure system access and compliance.  
+### 7. Manage System Configuration & Users  
 Workflow:  
-Healthcare Settings → User Management → Security & Compliance  
+[Healthcare Settings](../setup/healthcare-settings.md) → [User Management](../setup/users.md) → [Security & Compliance](../setup/security.md)  
 
-### 8. Define & Monitor KPIs
-Define key performance indicators and track them to align with hospital goals.  
+### 8. Define & Monitor KPIs  
 Workflow:  
-Dashboards & KPIs → Define KPIs → Monitor Performance  
+[Dashboards & KPIs](../reports-analytics/dashboards-kpis.md) → Define KPIs → Monitor Performance  
 
-### 9. Ensure Compliance & Audit Readiness
-Ensure hospital operations comply with regulatory, audit, and data security standards by monitoring user access, system activity, and configuration settings.  
+### 9. Ensure Compliance & Audit Readiness  
 Workflow:  
-Healthcare Settings → User Management → Security & Compliance  
+[Healthcare Settings](../setup/healthcare-settings.md) → [User Management](../setup/users.md) → [Security & Compliance](../setup/security.md)  
 
-### 10. Monitor Staff Attendance & Workforce Management
-Track staff attendance, shifts, working hours, and overtime to ensure optimal workforce utilization.  
+### 10. Monitor Staff Attendance & Workforce Management  
 Workflow:  
-Shift Management → Attendance Management → Time Tracking → Overtime Management  
+[Shift Management](../staff-attendance/shift-management.md) → [Attendance Management](../staff-attendance/attendance.md) → [Time Tracking](../staff-attendance/time-tracking.md) → [Overtime Management](../staff-attendance/overtime.md)  
 
 ## Key Navigation Insight
 
 Most management activities revolve around three core areas:
 
-- Dashboards & KPIs – Real-time visibility into hospital performance  
-- Reports (Clinical, Operational, Financial) – Detailed analysis for decision-making  
-- System Configuration & Resource Management – Control over users, settings, and resources  
+- **Dashboards & KPIs** – Real-time visibility into hospital performance  
+- **Reports (Clinical, Operational, Financial)** – Detailed analysis for decision-making  
+- **System Configuration & Resource Management** – Control over users, settings, and resources  
 
 From these, management users can:
+
 - monitor hospital performance and trends  
 - identify operational bottlenecks and inefficiencies  
 - track financial health and revenue  
