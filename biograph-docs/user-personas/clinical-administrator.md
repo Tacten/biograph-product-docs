@@ -10,13 +10,7 @@ Use this page as a quick navigation guide. Each workflow represents a key admini
 This is the most common workflow followed for system setup and ongoing administration.
 
 Workflow:  
-[Healthcare Settings](../setup/healthcare-settings.md) →  
-[Masters Configuration](../setup/masters.md) →  
-[Facility Setup](../setup/facility.md) →  
-[Appointment Type](../clinical-workflows/appointment-prerequisites.md) →  
-[Practitioner Management](../patient-care/practitioner-setup.md) →  
-[User Management](../setup/users.md) →  
-[Security & Compliance](../setup/security.md)
+[Healthcare Settings](../setup/healthcare-settings.md) →  [Masters Configuration](../setup/masters.md) →  [Facility Setup](../setup/facility.md) →  [Appointment Type](../clinical-workflows/appointment-prerequisites.md) →  [Practitioner Management](../patient-care/practitioner-setup.md) →  [User Management](../setup/users.md) →  [Security & Compliance](../setup/security.md)
 
 Explanation:
 - Healthcare Settings – Configure global system rules and defaults  
