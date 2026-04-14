@@ -25,42 +25,43 @@ Steps Explained:
 ### 1. Conduct Patient Consultation (End-to-End)
 Manage the complete consultation cycle from visit to treatment planning.  
 Workflow:  
-Patient Appointment / Patient → Patient Encounter → Diagnosis & Clinical Notes → Orders & Prescriptions → Follow-up
+[Patient Appointment](../clinical-workflows/booking-appointments.md) / [Patient](../patient-care/registration.md) → [Patient Encounter](../clinical-workflows/encounter-overview.md) → [Diagnosis & Clinical Notes](../clinical-workflows/clinical-documentation.md) → [Orders & Prescriptions](../clinical-workflows/orders-prescriptions.md) → [Follow-up](../clinical-workflows/followup-fee-validity.md)
+
 
 ### 2. Review Patient Before Consultation
 Quickly understand patient history and clinical background.  
 Workflow:  
-Patient → Patient Encounter → Lab Test → Diagnostic Report
+[Patient](../patient-care/registration.md) → [Patient Encounter](../clinical-workflows/encounter-overview.md) → [Lab Test](../diagnostics/lab-test-creation.md) → [Diagnostic Report](../diagnostics/diagnostic-reports.md)
 
 ### 3. Order Investigations & Interpret Results
 Request diagnostic tests and review results.  
 Workflow:  
-Patient Encounter → Orders & Prescriptions (Lab Orders) → Lab Test → Diagnostic Report
+[Patient Encounter](../clinical-workflows/encounter-overview.md) → [Orders & Prescriptions](../clinical-workflows/orders-prescriptions.md) → [Lab Test](../diagnostics/lab-test-creation.md) → [Diagnostic Report](../diagnostics/diagnostic-reports.md)
 
 ### 4. Delegate Clinical Tasks (Nursing Coordination)
 Assign tasks and track execution by nursing staff.  
 Workflow:  
-Patient Encounter → Service Request / Medication Request → Nursing Task
+[Patient Encounter](../clinical-workflows/encounter-overview.md) → [Service Request](../clinical-workflows/service-requests.md) / [Medication Request](../specialized/medication-requests.md) → [Nursing Task](../clinical-workflows/nursing-tasks.md)
 
 ### 5. Refer Patients to Other Specialists
 Refer patients for further evaluation or treatment.  
 Workflow:  
-Patient Encounter → Orders & Prescriptions → Referring Practitioner → Diagnosis (Coding)
+[Patient Encounter](../clinical-workflows/encounter-overview.md) → [Orders & Prescriptions](../clinical-workflows/orders-prescriptions.md) → [Referring Practitioner](../patient-care/referrals.md) → [Diagnosis (Coding)](../clinical-workflows/medical-coding.md)
 
 ### 6. Manage Inpatient Care (IPD)
 Monitor admitted patients and manage treatment until discharge.  
 Workflow:  
-Inpatient Record → Patient Encounter → Medication Orders → Clinical Notes → Discharge Summary
+[Inpatient Record](../inpatient/admission.md) → [Patient Encounter](../clinical-workflows/encounter-overview.md) → [Medication Orders](../inpatient/medication-orders.md) → [Clinical Notes](../clinical-workflows/clinical-documentation.md) → [Discharge Summary](../inpatient/discharge-summary.md)
 
 ### 7. Perform Clinical Procedures
 Execute and document procedures.  
 Workflow:  
-Clinical Procedure → Procedure Workflow → Consumables & Billing
+[Clinical Procedure](../clinical-workflows/procedure-creation.md) → [Procedure Workflow](../clinical-workflows/procedure-workflow.md) → [Consumables & Billing](../clinical-workflows/procedure-billing.md)
 
 ### 8. Manage Therapy & Rehabilitation
 Plan and monitor therapy programs.  
 Workflow:  
-Therapy Plan → Therapy Session → Patient Assessment
+[Therapy Plan](../specialized/therapy-plans.md) → [Therapy Session](../specialized/therapy-sessions.md) → [Patient Assessment](../specialized/patient-assessments.md)
 
 ## Key Navigation Insight
 
