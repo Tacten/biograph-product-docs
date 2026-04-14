@@ -65,7 +65,7 @@ Provide continuous care for admitted patients.
 ### 9. Monitor Patient Condition & Symptoms
 Track patient health changes and escalate when needed.  
 **Workflow**  
-[Patient Encounter](../clinical-workflows/encounter-overview.md) / [Inpatient Record](../inpatient/admission.md) → Vital Signs → [Observation](../diagnostics/observations.md) → [Progress Notes](../inpatient/progress-notes.md)
+[Patient Encounter](../clinical-workflows/encounter-overview.md) / [Inpatient Record](../inpatient/admission.md) → [Vital Signs](../clinical-workflows/clinical-documentation.md) → [Observation](../diagnostics/observations.md) → [Progress Notes](../inpatient/progress-notes.md)
 ### 10. Document Patient Observations
 Maintain accurate nursing notes and patient updates.  
 **Workflow**  
