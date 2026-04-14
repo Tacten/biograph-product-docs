@@ -10,7 +10,7 @@ Use this page as a quick navigation guide. Each workflow represents a common nur
 Support patient care from preparation to execution.
 
 **Workflow**
-[Patient Appointment](../clinical-workflows/booking-appointments.md) → Vital Signs → [Patient Encounter](../clinical-workflows/encounter-overview.md) → [Service Request](../clinical-workflows/service-requests.md) / [Medication Request](../specialized/medication-requests.md) → [Nursing Task](../clinical-workflows/nursing-tasks.md) → [Progress Notes](../inpatient/progress-notes.md)
+[Patient Appointment](../clinical-workflows/booking-appointments.md) → [Vital Signs](../clinical-workflows/clinical-documentation.md) → [Patient Encounter](../clinical-workflows/encounter-overview.md) → [Service Request](../clinical-workflows/service-requests.md) / [Medication Request](../specialized/medication-requests.md) → [Nursing Task](../clinical-workflows/nursing-tasks.md) → [Progress Notes](../inpatient/progress-notes.md)
 
 **Steps Explained**
 - **Patient Appointment** – Identify and manage arriving patients  
@@ -25,7 +25,7 @@ Support patient care from preparation to execution.
 ### 1. Record Patient Vitals
 Capture key health indicators before or during consultation.  
 **Workflow**  
-[Patient Appointment](../clinical-workflows/booking-appointments.md) → Vital Signs → [Patient Encounter](../clinical-workflows/encounter-overview.md) 
+[Patient Appointment](../clinical-workflows/booking-appointments.md) → [Vital Signs](../clinical-workflows/clinical-documentation.md) → [Patient Encounter](../clinical-workflows/encounter-overview.md) 
 
 ### 2. Manage Patient Check-In & Queue
 Assist in patient flow and preparation before consultation.  
@@ -35,7 +35,7 @@ Assist in patient flow and preparation before consultation.
 ### 3. Prepare Patient for Consultation
 Collect initial information and prepare patient for doctor.  
 **Workflow**  
-[Patient Appointment](../clinical-workflows/booking-appointments.md) → Vital Signs → [Patient Encounter](../clinical-workflows/encounter-overview.md) 
+[Patient Appointment](../clinical-workflows/booking-appointments.md) → [Vital Signs](../clinical-workflows/clinical-documentation.md) → [Patient Encounter](../clinical-workflows/encounter-overview.md) 
 
 ### 4. Execute Nursing Tasks
 Perform tasks assigned by doctors and track completion.  
@@ -60,7 +60,7 @@ Coordinate lab tests, procedures, and therapy tasks.
 ### 8. Manage Inpatient Care (IPD)
 Provide continuous care for admitted patients.  
 **Workflow**  
-[Inpatient Record](../inpatient/admission.md) → Vital Signs → [Medication Orders](../inpatient/medication-orders.md) → [Nursing Task](../clinical-workflows/nursing-tasks.md) → [Progress Notes](../inpatient/progress-notes.md) → [Discharge Planning](../inpatient/discharge-planning.md) 
+[Inpatient Record](../inpatient/admission.md) → [Vital Signs](../clinical-workflows/clinical-documentation.md) → [Medication Orders](../inpatient/medication-orders.md) → [Nursing Task](../clinical-workflows/nursing-tasks.md) → [Progress Notes](../inpatient/progress-notes.md) → [Discharge Planning](../inpatient/discharge-planning.md) 
 
 ### 9. Monitor Patient Condition & Symptoms
 Track patient health changes and escalate when needed.  
