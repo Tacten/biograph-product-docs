@@ -29,7 +29,7 @@ Workflow:
 ### 2. Collect & Record Samples
 Capture and manage patient samples for testing.  
 Workflow:  
-[Lab Test](../diagnostics/lab-test-creation.md) → [Sample Collection](../diagnostics/sample-collection.md) → Lab Test Sample  
+[Lab Test](../diagnostics/lab-test-creation.md) → [Sample Collection](../diagnostics/sample-collection.md) 
 
 ### 3. Perform & Record Observations
 Enter test results and measurements.  
