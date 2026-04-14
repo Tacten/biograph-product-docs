@@ -10,7 +10,7 @@ Use this page as a quick navigation guide. Each workflow represents a common tas
 Manage patient flow from registration to billing and payment.
 
 Workflow:  
-Patient → Patient Appointment → Patient Appointment (Calendar) → Check-In → Patient Encounter → Sales Invoice → Payment Entry
+[Patient](../patient-care/registration.md) → [Patient Appointment](../clinical-workflows/booking-appointments.md) → [Appointment Calendar](../clinical-workflows/appointment-calendar.md) → Check-In → [Patient Encounter](../clinical-workflows/encounter-overview.md) → [Sales Invoice](../billing-insurance/invoice-workflow.md) → [Payment Entry](../billing-insurance/payments.md)
 
 Steps Explained:
 - Patient – Register or manage patient details  
@@ -28,56 +28,56 @@ Steps Explained:
 #### 1. Register Patients
 Create new patient records or update existing details.  
 Workflow:  
-Patient → Create / Update Patient Record  
+[Patient](../patient-care/registration.md) → Create / Update Patient Record 
 
 ### Appointment Scheduling & Coordination
 
 #### 2. Book Appointments
 Schedule consultations with practitioners.  
 Workflow:  
-Patient Appointment → Select Practitioner → Select Slot → Confirm Appointment  
+[Patient Appointment](../clinical-workflows/booking-appointments.md) → Select Practitioner → Select Slot → Confirm Appointment 
 
 #### 3. Manage Appointments
 Handle rescheduling, cancellations, and updates.  
 Workflow:  
-Patient Appointment → Update / Cancel / Reschedule  
+[Patient Appointment](../clinical-workflows/booking-appointments.md) → Update / Cancel / Reschedule 
 
 #### 4. Monitor Schedule & Patient Flow
 Track daily appointments and manage queue.  
 Workflow:  
-Appointment Calendar → Patient Appointment → Queue Management  
+[Appointment Calendar](../clinical-workflows/appointment-calendar.md) → [Patient Appointment](../clinical-workflows/booking-appointments.md) → [Queue Management](../clinical-workflows/appointment-queue-management.md) 
 
 #### 5. Check-In Patients
 Mark arrival and move patients into consultation flow.  
 Workflow:  
-Patient Appointment → Check-In → Queue  
+[Patient Appointment](../clinical-workflows/booking-appointments.md) → Check-In → Queue 
 
 ### Billing & Payment Operations
 
 #### 6. Generate Patient Invoices
 Create billing records for consultations, tests, and procedures.  
 Workflow:  
-Patient Encounter / Patient Appointment → Sales Invoice → Add Items → Submit  
+[Patient Encounter](../clinical-workflows/encounter-overview.md) / [Patient Appointment](../clinical-workflows/booking-appointments.md) → [Sales Invoice](../billing-insurance/invoice-workflow.md) → Add Items → Submit  
 
 #### 7. Process Payments
 Collect and record patient payments.  
 Workflow:  
-Sales Invoice → Payment Entry → Record Payment → Update Status  
+[Sales Invoice](../billing-insurance/invoice-workflow.md) → [Payment Entry](../billing-insurance/payments.md) → Record Payment → Update Status 
 
 #### 8. Handle Insurance & Coverage
 Manage insurance-linked billing.  
 Workflow:  
-Patient Insurance Policy → Sales Invoice → Apply Coverage → Adjust Amount  
+[Patient Insurance Policy](../billing-insurance/patient-policies.md) → [Sales Invoice](../billing-insurance/invoice-workflow.md) → Apply Coverage → Adjust Amount 
 
 #### 9. Track Outstanding Payments
 Monitor unpaid invoices and follow up.  
 Workflow:  
-Sales Invoice → Filter (Unpaid / Overdue) → Follow-up → Payment Entry  
+[Sales Invoice](../billing-insurance/invoice-workflow.md) → Filter (Unpaid / Overdue) → Follow-up → [Payment Entry](../billing-insurance/payments.md) 
 
 #### 10. Handle Billing Queries & Adjustments
 Resolve billing issues and update invoices if needed.  
 Workflow:  
-Sales Invoice → Review → Adjust / Amend → Resend Invoice  
+[Sales Invoice](../billing-insurance/invoice-workflow.md) → Review → Adjust / Amend → Resend Invoice  
 
 ## Key Navigation Insight
 
