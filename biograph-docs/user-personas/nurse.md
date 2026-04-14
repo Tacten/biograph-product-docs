@@ -50,7 +50,7 @@ Provide medications as prescribed and record administration.
 ### 6. Administer Inpatient Medications
 Manage medication orders for admitted patients.  
 **Workflow**  
-[Inpatient Record](../inpatient/admission.md) → [Inpatient Medication Order](../inpatient/medication-orders.md) → Inpatient Medication Entry  
+[Inpatient Record](../inpatient/admission.md) → [Inpatient Medication Order](../inpatient/medication-orders.md) → [Inpatient Medication Entry](../inpatient/medication-administration.md)  
 
 ### 7. Create & Manage Service Requests
 Coordinate lab tests, procedures, and therapy tasks.  
