@@ -35,7 +35,7 @@ Workflow:
 #### 2. Book Appointments
 Schedule consultations with practitioners.  
 Workflow:  
-[Patient Appointment](../clinical-workflows/booking-appointments.md) → Select Practitioner → Select Slot → Confirm Appointment 
+[Patient Appointment](../clinical-workflows/booking-appointments.md) → [Select Practitioner](../clinical-workflows/booking-appointments.md) → [Select Slot](../clinical-workflows/booking-appointments.md) → Confirm Appointment 
 
 #### 3. Manage Appointments
 Handle rescheduling, cancellations, and updates.  
