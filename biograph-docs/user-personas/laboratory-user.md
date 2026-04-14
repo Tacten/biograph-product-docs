@@ -10,7 +10,7 @@ Use this page as a quick navigation guide. Each workflow represents a common lab
 Handle lab testing from order to report.
 
 Workflow:  
-Service Request → Lab Test → Sample Collection → Observation → Diagnostic Report
+[Service Request](../clinical-workflows/service-requests.md) → [Lab Test](../diagnostics/lab-test-creation.md) → [Sample Collection](../diagnostics/sample-collection.md) → [Observation](../diagnostics/observations.md) → [Diagnostic Report](../diagnostics/diagnostic-reports.md)
 
 Steps Explained:
 - Service Request – Receive lab test orders from practitioner  
@@ -24,32 +24,32 @@ Steps Explained:
 ### 1. Process Lab Orders
 Receive and manage incoming lab test requests.  
 Workflow:  
-Service Request → Lab Test (Creation & Assignment)  
+[Service Request](../clinical-workflows/service-requests.md) → [Lab Test](../diagnostics/lab-test-creation.md)  
 
 ### 2. Collect & Record Samples
 Capture and manage patient samples for testing.  
 Workflow:  
-Lab Test → Sample Collection → Lab Test Sample  
+[Lab Test](../diagnostics/lab-test-creation.md) → [Sample Collection](../diagnostics/sample-collection.md) → Lab Test Sample  
 
 ### 3. Perform & Record Observations
 Enter test results and measurements.  
 Workflow:  
-Lab Test → Observation → Submit Results  
+[Lab Test](../diagnostics/lab-test-creation.md) → [Observation](../diagnostics/observations.md) → Submit Results
 
 ### 4. Generate Diagnostic Reports
 Finalize and publish lab results.  
 Workflow:  
-Lab Test → Diagnostic Report → Review → Submit  
+[Lab Test](../diagnostics/lab-test-creation.md) → [Diagnostic Report](../diagnostics/diagnostic-reports.md) → Review → Submit 
 
 ### 5. Track Test Status & Progress
 Monitor test lifecycle from order to completion.  
 Workflow:  
-Lab Test → Status (Draft → Completed → Approved)  
+[Lab Test](../diagnostics/lab-test-creation.md) → Status (Draft → Completed → Approved) 
 
 ### 6. Handle Inpatient Lab Requests
 Process lab tests for admitted patients.  
 Workflow:  
-Inpatient Record → Service Request → Lab Test → Diagnostic Report  
+[Inpatient Record](../inpatient/admission.md) → [Service Request](../clinical-workflows/service-requests.md) → [Lab Test](../diagnostics/lab-test-creation.md) → [Diagnostic Report](../diagnostics/diagnostic-reports.md) 
 
 ## Key Navigation Insight
 
