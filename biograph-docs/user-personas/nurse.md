@@ -45,7 +45,7 @@ Perform tasks assigned by doctors and track completion.
 ### 5. Administer Medications (OPD/IPD)
 Provide medications as prescribed and record administration.  
 **Workflow**  
-[Medication Request](../specialized/medication-requests.md) → Administer Medication → Update Status 
+[Medication Request](../specialized/medication-requests.md) → [Administer Medication](../inpatient/medication-administration.md) → Update Status 
 
 ### 6. Administer Inpatient Medications
 Manage medication orders for admitted patients.  
