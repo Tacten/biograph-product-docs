@@ -10,7 +10,7 @@ Use this page as a quick navigation guide. Each workflow represents a common pha
 Handle medication requests from prescription to dispensing and stock update.
 
 Workflow:  
-Patient Encounter → Medication Request → Item (Stock) → Stock Entry → Billing (Sales Invoice)
+[Patient Encounter](../clinical-workflows/encounter-overview.md) → [Medication Request](../specialized/medication-requests.md) → [Item (Stock)](../specialized/stock-integration.md) → [Stock Entry](../specialized/stock-integration.md) → [Sales Invoice](../billing-insurance/invoice-workflow.md)
 
 Steps Explained:
 - Patient Encounter – Access prescribed medications  
@@ -24,52 +24,52 @@ Steps Explained:
 ### 1. Process Medication Requests
 Receive and manage prescriptions from practitioners.  
 Workflow:  
-Patient Encounter → Medication Request → Review Details  
+[Patient Encounter](../clinical-workflows/encounter-overview.md) → [Medication Request](../specialized/medication-requests.md) → Review Details  
 
 ### 2. Verify Prescription Accuracy
 Ensure correct medication, dosage, and duration.  
 Workflow:  
-Medication Request → Review Medication Details  
+[Medication Request](../specialized/medication-requests.md) → Review Medication Details  
 
 ### 3. Check Medication Stock Availability
 Verify stock, batch, and expiry before dispensing.  
 Workflow:  
-Item → Stock Balance → Batch / Expiry  
+[Item](../specialized/stock-integration.md) → Stock Balance → Batch / Expiry 
 
 ### 4. Dispense Medication
 Prepare and issue medicines based on prescription.  
 Workflow:  
-Medication Request → Dispense → Update Status (Completed)  
+[Medication Request](../specialized/medication-requests.md) → Dispense → Update Status (Completed)  
 
 ### 5. Record Dispensing & Update Stock
 Update inventory after dispensing medicines.  
 Workflow:  
-Medication Request → Stock Entry (Material Issue) → Inventory Update  
+[Medication Request](../specialized/medication-requests.md) → [Stock Entry](../specialized/stock-integration.md) → Inventory Update 
 
 ### 6. Manage Inpatient Medications
 Handle medication supply for admitted patients.  
 Workflow:  
-Inpatient Record → Medication Request → Stock Entry  
+[Inpatient Record](../inpatient/admission.md) → [Medication Request](../specialized/medication-requests.md) → [Stock Entry](../specialized/stock-integration.md)  
 
 ### 7. Monitor Medication Requests & Billing Status
 Track pending, completed, and billed medications.  
 Workflow:  
-Medication Request → Status (Pending / Completed / Billed)  
+[Medication Request](../specialized/medication-requests.md) → Status (Pending / Completed / Billed)  
 
 ### 8. Manage Medication Inventory
 Track stock levels and handle shortages.  
 Workflow:  
-Item → Warehouse (Stock Balance) → Reorder / Transfer  
+[Item](../specialized/stock-integration.md) → Warehouse (Stock Balance) → Reorder / Transfer 
 
 ### 9. Track Batch & Expiry
 Ensure safe dispensing using valid stock.  
 Workflow:  
-Item → Batch → Expiry Check  
+[Item](../specialized/stock-integration.md) → Batch → Expiry Check  
 
 ### 10. Support Billing for Medications
 Ensure dispensed medications are correctly billed.  
 Workflow:  
-Medication Request → Sales Invoice (via Billing Team)  
+[Medication Request](../specialized/medication-requests.md) → [Sales Invoice](../billing-insurance/invoice-workflow.md) 
 
 ## Key Navigation Insight
 
