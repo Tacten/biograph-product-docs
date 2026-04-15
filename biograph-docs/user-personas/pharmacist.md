@@ -44,7 +44,7 @@ Workflow:
 ### 5. Record Dispensing & Update Stock
 Update inventory after dispensing medicines.  
 Workflow:  
-[Medication Request](../specialized/medication-requests.md) → [Stock Entry](../specialized/stock-integration.md) → Inventory Update 
+[Medication Request](../specialized/medication-requests.md) → [Stock Entry](../specialized/stock-integration.md) → [Inventory Update](../specialized/stock-integration.md) 
 
 ### 6. Manage Inpatient Medications
 Handle medication supply for admitted patients.  
