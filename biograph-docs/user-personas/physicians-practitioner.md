@@ -1,4 +1,4 @@
-# Physicians / Practitioner – Daily Workflow & Navigation Guide
+# Physicians / Practitioners – Daily Workflow & Navigation Guide
 
 A Practitioner (Doctor) is responsible for delivering clinical care, including consultation, diagnosis, treatment planning, procedures, and ongoing patient management across OPD and IPD settings.  
 This page provides a structured overview of daily workflows to help practitioners quickly navigate Biograph.
