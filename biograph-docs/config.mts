@@ -212,6 +212,21 @@ export default defineConfig({
                             ]
                         },
                         {
+                            text: 'Role-Based Workflows',
+                            collapsed: true,
+                            items: [
+                                { text: 'Clinical Administrator', link: '/guide/biograph-docs/user-personas/clinical-administrator' },
+                                { text: 'Reception / Front Desk', link: '/guide/biograph-docs/user-personas/reception--front-desk' },
+                                { text: 'Physicians / Practitioner', link: '/guide/biograph-docs/user-personas/physicians-practitioner' },
+                                { text: 'Nurse', link: '/guide/biograph-docs/user-personas/nurse' },
+                                { text: 'Laboratory User', link: '/guide/biograph-docs/user-personas/laboratory-user' },
+                                { text: 'Pharmacist', link: '/guide/biograph-docs/user-personas/pharmacist' },
+                                { text: 'Billing Staff', link: '/guide/biograph-docs/user-personas/billing-staff' },
+                                { text: 'Hospital Management', link: '/guide/biograph-docs/user-personas/hospital--management-administartor' },
+                                { text: 'Patients', link: '/guide/biograph-docs/user-personas/patients' },
+                            ]
+                        },
+                        {
                             text: 'Setup & Configuration',
                             collapsed: true,
                             items: [
