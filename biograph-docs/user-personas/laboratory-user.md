@@ -1,4 +1,4 @@
-# Laboratory User – Daily Workflow & Navigation Guide
+# Lab Technicians – Daily Workflow & Navigation Guide
 
 A Laboratory User (Lab Technician) manages diagnostic tests, sample collection, result entry, and report generation.  
 This page provides a structured overview of daily laboratory workflows to help navigate Biograph efficiently.
