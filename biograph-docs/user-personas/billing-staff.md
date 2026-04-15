@@ -1,4 +1,4 @@
-# Billing Staff Guide – Daily Workflows & Navigation
+# Billing Staff – Daily Workflows & Navigation
 
 A Billing Staff is responsible for managing patient billing, including charge capture, invoice generation, payment processing, and insurance claim handling to ensure accurate and timely financial operations.  
 This page provides a structured overview of billing workflows to help users efficiently navigate financial processes.
