@@ -34,7 +34,7 @@ Workflow:
 ### 3. Check Medication Stock Availability
 Verify stock, batch, and expiry before dispensing.  
 Workflow:  
-[Item](../specialized/stock-integration.md) → Stock Balance → Batch / Expiry 
+[Item](../specialized/stock-integration.md) → [Item](../specialized/stock-integration.md) → [Stock Balance](../specialized/stock-integration.md) → Batch / Expiry → Batch / Expiry 
 
 ### 4. Dispense Medication
 Prepare and issue medicines based on prescription.  
