@@ -1,4 +1,4 @@
-# Reception / Front Desk – Daily Workflow & Navigation Guide
+# Front Desk / Reception – Daily Workflow & Navigation Guide
 
 Reception / Front Desk users manage patient entry, appointment scheduling, billing, and payment collection—ensuring smooth front-office and financial operations.  
 This page provides a structured overview of daily workflows to help navigate Biograph efficiently.
