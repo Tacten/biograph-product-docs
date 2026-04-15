@@ -1,4 +1,4 @@
-# Nurse – Daily Workflow & Navigation Guide
+# Nurses – Daily Workflow & Navigation Guide
 
 A Nurse supports clinical care by recording patient vitals, executing doctor instructions, managing patient activities, and coordinating care across outpatient and inpatient settings.  
 This page provides a structured overview of daily nursing workflows to help navigate Biograph efficiently.
