@@ -59,7 +59,7 @@ Workflow:
 ### 8. Manage Medication Inventory
 Track stock levels and handle shortages.  
 Workflow:  
-[Item](../specialized/stock-integration.md) → Warehouse (Stock Balance) → Reorder / Transfer 
+[Item](../specialized/stock-integration.md) → [Warehouse (Stock Balance)](../specialized/stock-integration.md) → Reorder / Transfer 
 
 ### 9. Track Batch & Expiry
 Ensure safe dispensing using valid stock.  
