@@ -1,4 +1,4 @@
-# Pharmacist – Daily Workflow & Navigation Guide
+# Pharmacists – Daily Workflow & Navigation Guide
 
 A Pharmacist manages medication dispensing, verifies prescriptions, handles drug inventory, and ensures safe and accurate delivery of medicines to patients.  
 This page provides a structured overview of pharmacy workflows to help navigate Biograph efficiently.
