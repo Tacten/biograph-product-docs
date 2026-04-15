@@ -1,4 +1,4 @@
-# Clinical Administrator – Daily Workflow & Navigation Guide
+# Clinic Administrators – Daily Workflow & Navigation Guide
 
 A Clinical Administrator is responsible for configuring the healthcare system, managing organizational structure, setting up practitioners, defining appointment types, and ensuring smooth system operations to support clinical workflows.  
 This page provides a structured overview of administrative workflows to help users efficiently manage system configuration and operations.
