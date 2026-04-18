@@ -107,7 +107,6 @@ If conflict exists:
   - Calendar View
 - A corresponding **calendar event** is created for the booked time block
 
----
 
 ## Mark Time as Unavailable
 
@@ -140,7 +139,6 @@ Go to:
 ![Mark Unavailable Dialog](../assets/mark-unavailable-dialog.png)
 
 
-![Mark Unavailable Dialog1](../assets/mark-unavailable-dialog1.png)
 ### How It Works
 
 - Blocks selected time range for the practitioner
@@ -151,6 +149,8 @@ Prevents:
 - Slot visibility during appointment creation  
 
 Applies across all associated service units.
+
+![Mark Unavailable Dialog1](../assets/mark-unavailable-dialog1.png)
 
 ### Conflict Detection
 
@@ -189,7 +189,6 @@ System will:
 - Restore availability  
 - Remove the associated calendar event  
 
----
 
 ## Key Notes
 
