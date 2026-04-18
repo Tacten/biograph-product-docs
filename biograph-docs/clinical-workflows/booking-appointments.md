@@ -142,7 +142,7 @@ Go to:
 ### How It Works
 
 - Blocks selected time range for the practitioner
-- Can also be applied to a **Service Unit**, not just a practitioner
+- Can also be applied to a Service Unit, not just a practitioner
 
 Prevents:
 - New bookings  
