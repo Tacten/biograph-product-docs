@@ -11,7 +11,8 @@ Use this page as a quick navigation guide. Each workflow represents a key manage
 This is the most common workflow followed for monitoring and decision-making.
 
 **Workflow:**  
-[Dashboards & KPIs](../reports-analytics/dashboards-kpis.md) → [Clinical Reports](../reports-analytics/clinical-reports.md) → [Operational Reports](../reports-analytics/operational-reports.md) → [Financial Reports](../reports-analytics/financial-reports.md) → Decision & Action  
+[Dashboards & KPIs](../analytics-regional/dashboards.md) → [Clinical Reports](../analytics-regional/clinical-reports.md) → [Operational Reports](../analytics-regional/operational-reports.md) → [Financial Reports](../billing-insurance/financial-reports.md) → Decision & Action  
+
 
 ## Steps Explained
 
@@ -21,29 +22,29 @@ This is the most common workflow followed for monitoring and decision-making.
 - **Financial Reports** – Track revenue, billing, and financial health  
 - **Decision & Action** – Take actions based on insights  
 
----
 
 ## Daily Jobs To Be Done
 
 ### 1. Monitor Hospital KPIs  
 Workflow:  
-[Dashboards & KPIs](../reports-analytics/dashboards-kpis.md) → Review KPIs → Analyze Trends  
+[Dashboards & KPIs](../analytics-regional/dashboards.md) → Review KPIs → Analyze Trends  
+
 
 ### 2. Review Clinical & Operational Performance  
 Workflow:  
-[Clinical Reports](../reports-analytics/clinical-reports.md) → [Operational Reports](../reports-analytics/operational-reports.md) → Analyze Performance  
+[Clinical Reports](../analytics-regional/clinical-reports.md) → [Operational Reports](../analytics-regional/operational-reports.md) → Analyze Performance  
 
 ### 3. Monitor Financial Performance  
 Workflow:  
-[Financial Reports](../reports-analytics/financial-reports.md) → Analyze Revenue → Track Payments  
+[Financial Reports](../billing-insurance/financial-reports.md) → Analyze Revenue → Track Payments  
 
 ### 4. Oversee Hospital Operations  
 Workflow:  
-[Appointment Calendar](../appointments/appointment-calendar.md) → [Inpatient Management](../inpatient/admission-process.md) → [Laboratory & Diagnostics](../laboratory-diagnostics/lab-test-creation.md) → [Billing & Finance](../billing-insurance/patient-billing.md)  
+[Appointment Calendar](../clinical-workflows/appointment-calendar.md) → [Inpatient Management](../inpatient/admission.md) → [Laboratory & Diagnostics](../diagnostics/lab-test-creation.md) → [Billing & Finance](../billing-insurance/patient-billing.md)  
 
 ### 5. Identify Issues & Bottlenecks  
 Workflow:  
-[Dashboards & KPIs](../reports-analytics/dashboards-kpis.md) → [Operational Reports](../reports-analytics/operational-reports.md) → Identify Issues  
+[Dashboards & KPIs](../analytics-regional/dashboards.md) → [Operational Reports](../analytics-regional/operational-reports.md) → Identify Issues  
 
 ### 6. Monitor Resource Utilization  
 Workflow:  
@@ -55,7 +56,7 @@ Workflow:
 
 ### 8. Define & Monitor KPIs  
 Workflow:  
-[Dashboards & KPIs](../reports-analytics/dashboards-kpis.md) → Define KPIs → Monitor Performance  
+[Dashboards & KPIs](../analytics-regional/dashboards.md) → Define KPIs → Monitor Performance  
 
 ### 9. Ensure Compliance & Audit Readiness  
 Workflow:  
@@ -63,7 +64,8 @@ Workflow:
 
 ### 10. Monitor Staff Attendance & Workforce Management  
 Workflow:  
-[Shift Management](../staff-attendance/shift-management.md) → [Attendance Management](../staff-attendance/attendance.md) → [Time Tracking](../staff-attendance/time-tracking.md) → [Overtime Management](../staff-attendance/overtime.md)  
+[Shift Management](../hr-workforce/shift-management.md) → [Attendance Management](../hr-workforce/attendance-management.md) → [Time Tracking](../hr-workforce/Time.md) →  [Overtime Management](../hr-workforce/Overtime.md)  
+
 
 ## Key Navigation Insight
 
