@@ -12,7 +12,8 @@ Use this page as a quick navigation guide. Each workflow represents a therapy-re
 This is the most common workflow followed during patient rehabilitation.
 
 **Workflow:**  
-[Patient Encounter](../clinical-consultation/encounter-overview.md) → [Therapy Plan](../rehabilitation/therapy-plans.md) → [Therapy Session](../rehabilitation/therapy-sessions.md) → [Clinical Note](../clinical-consultation/clinical-documentation.md) → [Patient Assessment](../rehabilitation/patient-assessments.md) → Tracking Progress → Follow-up  
+[Patient Encounter](../clinical-workflows/encounter-overview.md) → [Therapy Plan](../specialized/therapy-plans.md) → [Therapy Session](../specialized/therapy-sessions.md) →  
+[Clinical Note](../clinical-workflows/clinical-documentation.md) → [Patient Assessment](../specialized/patient-assessments.md) → Tracking Progress → Follow-up 
 
 
 ## Steps Explained
@@ -29,39 +30,41 @@ This is the most common workflow followed during patient rehabilitation.
 
 ### 1. Review Patient Case  
 Workflow:  
-[Patient Dashboard](../patient-management/patient-dashboard.md) → Medical History → [Patient Encounter](../clinical-consultation/encounter-overview.md) → [Therapy Plan](../rehabilitation/therapy-plans.md) 
+[Patient Dashboard](../patient-care/dashboard.md) → Medical History → [Patient Encounter](../clinical-workflows/encounter-overview.md) → [Therapy Plan](../specialized/therapy-plans.md) 
 
 ### 2. Create Therapy Plan  
 Workflow:  
-[Therapy Types](../rehabilitation/therapy-types.md) → [Therapy Plan](../rehabilitation/therapy-plans.md) → Plan Details  
+[Therapy Types](../specialized/therapy-types.md) → [Therapy Plan](../specialized/therapy-plans.md) → Plan Details 
 
 ### 3. Conduct Therapy Session  
 Workflow:  
-[Therapy Plan](../rehabilitation/therapy-plans.md) → [Therapy Session](../rehabilitation/therapy-sessions.md) → Exercises → Session Documentation  
+[Therapy Plan](../specialized/therapy-plans.md) → [Therapy Session](../specialized/therapy-sessions.md) → Exercises → Session Documentation  
 
 ### 4. Record Clinical Notes  
 Workflow:  
-[Therapy Session](../rehabilitation/therapy-sessions.md) → [Clinical Note](../clinical-consultation/clinical-documentation.md)  
+[Therapy Session](../specialized/therapy-sessions.md) → [Clinical Note](../clinical-workflows/clinical-documentation.md)  
 
 ### 5. Record Patient Assessment  
 Workflow:  
-[Patient Assessments](../rehabilitation/patient-assessments.md) → Assessment Sheet  
+[Patient Assessments](../specialized/patient-assessments.md) → Assessment Sheet  
+ 
 
 ### 6. Monitor Progress  
 Workflow:  
-[Therapy Session](../rehabilitation/therapy-sessions.md) → [Patient Assessments](../rehabilitation/patient-assessments.md) → Tracking Progress  
+[Therapy Session](../specialized/therapy-sessions.md) → [Patient Assessments](../specialized/patient-assessments.md) → Tracking Progress  
 
 ### 7. Coordinate with Doctor  
 Workflow:  
-[Clinical Note](../clinical-consultation/clinical-documentation.md) → Doctor Review  
+[Clinical Note](../clinical-workflows/clinical-documentation.md) → Doctor Review  
 
 ### 8. Manage Therapy Schedule  
 Workflow:  
-[Therapy Session](../rehabilitation/therapy-sessions.md) → [Appointment](../appointments/booking-appointments.md) → Follow-up  
+[Therapy Session](../specialized/therapy-sessions.md) → [Appointment](../clinical-workflows/booking-appointments.md) →  
+Follow-up  
 
 ### 9. Use Therapy Templates  
 Workflow:  
-[Therapy Plan Templates](../rehabilitation/therapy-plan-templates.md) → [Therapy Plan](../rehabilitation/therapy-plans.md)  
+[Therapy Plan](../specialized/therapy-plans.md) → Template Usage 
 
 ## Key Navigation Insight
 
