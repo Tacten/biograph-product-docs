@@ -12,8 +12,7 @@ Use this page as a quick navigation guide. Each workflow represents a therapy-re
 This is the most common workflow followed during patient rehabilitation.
 
 **Workflow:**  
-[Patient Encounter](../clinical-workflows/encounter-overview.md) → [Therapy Plan](../specialized/therapy-plans.md) → [Therapy Session](../specialized/therapy-sessions.md) →  
-[Clinical Note](../clinical-workflows/clinical-documentation.md) → [Patient Assessment](../specialized/patient-assessments.md) → Tracking Progress → Follow-up 
+[Patient Encounter](../clinical-workflows/encounter-overview.md) → [Therapy Plan](../specialized/therapy-plans.md) → [Therapy Session](../specialized/therapy-sessions.md) → [Clinical Note](../clinical-workflows/clinical-documentation.md) → [Patient Assessment](../specialized/patient-assessments.md) → Tracking Progress → Follow-up 
 
 
 ## Steps Explained
