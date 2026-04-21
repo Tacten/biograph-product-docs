@@ -58,8 +58,7 @@ Workflow:
 
 ### 8. Manage Therapy Schedule  
 Workflow:  
-[Therapy Session](../specialized/therapy-sessions.md) → [Appointment](../clinical-workflows/booking-appointments.md) →  
-Follow-up  
+[Therapy Session](../specialized/therapy-sessions.md) → [Appointment](../clinical-workflows/booking-appointments.md) → Follow-up  
 
 ### 9. Use Therapy Templates  
 Workflow:  
