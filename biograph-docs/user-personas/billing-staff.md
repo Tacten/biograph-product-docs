@@ -11,7 +11,7 @@ Use this page as a quick navigation guide. Each workflow represents a common bil
 This is the most common workflow followed for patient billing and payment processing.
 
 **Workflow:**  
-[Service Item Mapping](../billing-insurance/service-items.md) → [Patient Billing](../billing-insurance/patient-billing.md) → [Invoice Workflow](../billing-insurance/invoice-workflow.md) → [Payment Processing](../billing-insurance/payments.md) → Optional: [Insurance Eligibility](../billing-insurance/eligibility.md) → [Insurance Claim](../billing-insurance/claim-workflow.md) → [Financial Reports](../billing-insurance/financial-reports.md)
+[Service Item Mapping](../billing-insurance/service-items.md) → [Patient Billing](../billing-insurance/patient-billing.md) → [Invoice Workflow](../billing-insurance/invoice-workflow.md) → [Payment Processing](../billing-insurance/payments.md) → Optional: [Insurance Eligibility](../billing-insurance/insurance-eligibility.md) → [Insurance Claim](../billing-insurance/claim-workflow.md) → [Financial Reports](../billing-insurance/financial-reports.md)
 
 ## Explanation
 
