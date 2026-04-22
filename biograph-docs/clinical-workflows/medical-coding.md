@@ -2,7 +2,7 @@
 
 Biograph supports standardized medical coding for diagnoses, procedures, and observations. The coding system is built around three interconnected concepts — Code System, Code Value Set, and Code Value — which together allow clinicians to attach internationally recognised terminology to every clinical event.
 
-![Medical Coding](..assets/Medical-coding1.png)
+![Medical Coding](../assets/Medical-coding1.png)
 
 Medical Coding Configuration
 
