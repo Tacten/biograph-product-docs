@@ -34,12 +34,41 @@ Before using teleconsultation, Google integration must be configured.
 
 > Without this setup, video conferencing links cannot be generated.
 
+## System Configuration in Biograph
+
+### 1. Google Settings
+
+Navigation: 
+> Integrations → Google Settings
+
+![Google Settings Configuration](../assets/teleconsultation-setup-05-google-settings.png)
+
+Configure the following:
+
+- Enable Google Integration  
+- Add OAuth Client ID  
+- Add Client Secret  
+- Add API Key  
+- Complete authorization  
+
+### 2. Healthcare Settings
+
+Navigation:
+> Setup → Healthcare Settings
+
+![Healthcare Settings Configuration](../assets/teleconsultation-setup-06-healthcare-settings.png)
+
+Ensure:
+
+- Default Google Calendar is configured  
+
+> This calendar is used to generate Google Meet links for teleconsultation.
 
 ## Creating a Teleconsultation Appointment
 
 Navigate to:
 
->Home → Healthcare → Patient Appointment
+> Home → Healthcare → Patient Appointment
 
 ### Steps
 
@@ -54,10 +83,10 @@ Navigate to:
    - **Add Video Conferencing**  
 5. Save the appointment  
 
->The standard appointment creation flow remains the same.
+> The standard appointment creation flow remains the same.
 
 
-## What Happens on Save
+## What Happens After Saving
 
 When **Add Video Conferencing** is enabled:
 
@@ -71,7 +100,7 @@ When **Add Video Conferencing** is enabled:
 
 ### Step 1: Appointment Booking
 
-- Appointment is created with **Add Video Conferencing enabled**  
+- Appointment is created with **Add Video Conferencing** enabled 
 - System generates the meeting link  
 
 ![Create Teleconsultation Appointment](../assets/teleconsultation-01-create-appointment.png)
@@ -85,7 +114,7 @@ When **Add Video Conferencing** is enabled:
 - Calendar event (if configured)
 
 **Patient receives:**
-- Email with Google Meet link
+- Receives email with Google Meet link
 
 
 ![Email Notification with Meeting Link](../assets/teleconsultation-03-email-invite2.png)
