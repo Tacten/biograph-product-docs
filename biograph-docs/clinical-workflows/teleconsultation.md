@@ -81,13 +81,15 @@ When **Add Video Conferencing** is enabled:
 
 ### Step 2: Notification
 
-**Patient receives:**
-- Email with Google Meet link  
-
 **Practitioner receives:**
-- Calendar event (if configured)  
+- Calendar event (if configured)
 
-![Email Notification with Meeting Link](../assets/teleconsultation-03-email-invite1.png)
+**Patient receives:**
+- Email with Google Meet link
+
+
+![Email Notification with Meeting Link](../assets/teleconsultation-03-email-invite2.png)
+
 
 ### Step 3: Consultation Preparation
 
