@@ -158,7 +158,6 @@ Patients can easily identify where to go when their token is called.
 
 ![Smart Digital Dashboard LCD](../assets/smart-digital-dashboard-lcd.png)
 
----
 
 ## Mobile Queue Tracking
 
