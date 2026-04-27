@@ -111,7 +111,76 @@ A dedicated Queue Status View provides:
 
 - Reception staff  
 - Hospital administrators  
-- Monitoring patient flow  
+- Monitoring patient flow
+
+## LCD Queue Display
+
+A Smart Digital LCD Display is configured to show live patient queue status in hospital waiting areas.
+
+It helps patients track their turn without asking reception repeatedly and improves visibility of consultation flow.
+
+### Navigation
+
+Users can access the LCD Queue Display through:
+
+> Home → Website → Web Page → Smart Digital Dashboard LCD → See on Website
+
+A dedicated website link is created for the queue display screen, which can be opened directly on TV/LCD screens for live patient queue monitoring.
+
+Patients can also access queue status through:
+
+- QR code scanning from the LCD screen  
+- Mobile queue tracking page  
+- Dedicated website display link  
+
+### LCD Display Includes
+
+- Now Serving token number  
+- Upcoming queue numbers  
+- Assigned consultation room  
+- Doctor name  
+- Live queue status  
+- Mobile QR code for queue tracking  
+- Multiple doctor LCD display support for shared consultation areas  
+
+### This Supports
+
+- Single consultation room display  
+- Two-room split screen display for multiple consultation rooms  
+- Multi-doctor LCD display on one screen for multiple active doctors  
+
+### Example Consultation Rooms
+
+- Consultation Room-01 - BHD  
+- Consultation Room-02 - BHD  
+
+Patients can easily identify where to go when their token is called.
+
+![Smart Digital Dashboard LCD](../assets/smart-digital-dashboard-lcd.png)
+
+---
+
+## Mobile Queue Tracking
+
+Patients can scan the QR code shown on the LCD screen to check their live queue status directly on mobile.
+
+A dedicated mobile-friendly queue page is configured to display real-time queue updates, including:
+
+- Current token being served  
+- Upcoming queue numbers  
+- Doctor name  
+- Consultation room details  
+
+This helps patients:
+
+- Wait comfortably nearby  
+- Avoid standing near the reception desk  
+- Track upcoming queue in real time  
+- Easily identify their consultation room and doctor  
+
+This improves patient experience, reduces crowding in waiting areas, and provides better visibility of patient flow.
+
+![Mobile Queue Tracking](../assets/mobile-queue-tracking.png)
 
 
 ## Key Benefits
