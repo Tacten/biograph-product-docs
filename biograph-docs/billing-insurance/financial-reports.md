@@ -15,6 +15,7 @@ To view Financial Reports:
 | **Patient Appointment Analytics** | Appointment volume and revenue trends |
 | **Service-wise Revenue** | Revenue by service type (consultation, lab, procedure, etc.) |
 
+![Hospital Finance Dashboard](../assets/Hospital%20Finance%20Dashboard.png)
 
 Provides a centralized dashboard for monitoring key financial metrics and performance indicators
 Fully customizable, allowing users to modify and configure views based on hospital requirements
